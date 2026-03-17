@@ -1,0 +1,98 @@
+---
+layout: base.njk
+lang: es
+title: Mensaje Recibido
+description: "Hemos recibido su mensaje. El equipo de Tesserae Bureau se pondrá en contacto a la brevedad."
+permalink: /es/gracias/
+eleventyExcludeFromCollections: true
+---
+
+<section style="
+  min-height: 100dvh;
+  display: grid;
+  place-items: center;
+  background: var(--charcoal);
+  padding: 6rem 8vw;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+">
+
+  <!-- background texture -->
+  <div style="
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse 70% 60% at 50% 40%, rgba(184,150,90,0.07) 0%, transparent 70%);
+    pointer-events: none;
+  "></div>
+
+  <div style="position: relative; max-width: 560px;" data-reveal>
+
+    <!-- icon -->
+    <div style="
+      width: 64px;
+      height: 64px;
+      border: 1px solid var(--gold);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 2.5rem;
+    ">
+      <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M5 13.5L10.5 19L21 8" stroke="#B8965A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </div>
+
+    <!-- label -->
+    <p style="
+      font-family: var(--sans);
+      font-size: 0.62rem;
+      letter-spacing: 0.35em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 1.5rem;
+    ">Tesserae Bureau</p>
+
+    <!-- headline -->
+    <h1 style="
+      font-family: var(--serif);
+      font-size: clamp(2.2rem, 5vw, 3.8rem);
+      font-weight: 300;
+      color: var(--cream-light);
+      line-height: 1.1;
+      margin-bottom: 1.8rem;
+    ">
+      Hemos recibido<br><em style="font-style: italic; color: var(--gold-light);">su mensaje.</em>
+    </h1>
+
+    <!-- body -->
+    <p style="
+      font-size: 1rem;
+      line-height: 1.85;
+      color: rgba(237,233,224,0.6);
+      margin-bottom: 0.8rem;
+    ">
+      Gracias por comunicarse con nosotros. Una de nuestras socias revisará su consulta y le responderá a la brevedad posible.
+    </p>
+    <p style="
+      font-size: 0.9rem;
+      line-height: 1.8;
+      color: rgba(237,233,224,0.35);
+      margin-bottom: 3.5rem;
+    ">
+      Si su asunto es urgente, puede contactarnos directamente:<br>
+      <a href="mailto:info@tesseraebureau.com" style="color: var(--gold); text-decoration: none;">info@tesseraebureau.com</a>
+    </p>
+
+    <!-- divider -->
+    <div style="width: 40px; height: 1px; background: rgba(184,150,90,0.3); margin: 0 auto 3.5rem;"></div>
+
+    <!-- cta -->
+    <a href="/es/" class="btn-primary" style="background: transparent; border: 1px solid rgba(184,150,90,0.4); color: var(--cream-light);">
+      Volver al inicio
+    </a>
+
+  </div>
+
+</section>
