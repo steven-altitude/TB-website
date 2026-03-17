@@ -39,6 +39,16 @@
     });
   }
 
+  // ── Practice area accordion
+  document.querySelectorAll('.pa-toggle').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var card = btn.closest('.pa-card');
+      var open = card.classList.toggle('open');
+      btn.setAttribute('aria-expanded', String(open));
+      // CSS rotation on .pa-toggle-icon handles the visual +→× change
+    });
+  });
+
   // ── Smooth scroll for anchor links
   document.querySelectorAll('a[href^="#"]').forEach(function (a) {
     a.addEventListener('click', function (e) {

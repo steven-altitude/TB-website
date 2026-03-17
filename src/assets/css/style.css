@@ -1333,11 +1333,22 @@ footer {
   transition: border-color 0.3s;
 }
 
-.pa-card:hover { border-color: var(--gold); }
+.pa-card:hover,
+.pa-card.open { border-color: var(--gold); }
 
 .pa-num { font-size: 0.62rem; letter-spacing: 0.3em; color: var(--gold); margin-bottom: 0.8rem; text-transform: uppercase; }
 .pa-title { font-family: var(--serif); font-size: 1.5rem; color: var(--charcoal); margin-bottom: 0.8rem; font-weight: 400; line-height: 1.2; }
 .pa-lead { font-size: 1rem; color: var(--charcoal-mid); margin-bottom: 1.5rem; line-height: 1.7; }
+
+/* accordion body */
+.pa-body {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 0.38s ease;
+  overflow: hidden;
+}
+.pa-body-inner { overflow: hidden; }
+.pa-card.open .pa-body { grid-template-rows: 1fr; }
 
 .pa-list {
   list-style: none;
@@ -1345,12 +1356,13 @@ footer {
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
+  padding-bottom: 1.8rem;
 }
 
 .pa-list li {
-  font-size: 0.88rem;
+  font-size: 0.95rem;
   color: var(--charcoal-mid);
-  line-height: 1.6;
+  line-height: 1.65;
   padding-left: 1.2rem;
   position: relative;
 }
@@ -1359,11 +1371,42 @@ footer {
   content: '';
   position: absolute;
   left: 0;
-  top: 0.55em;
+  top: 0.6em;
   width: 5px;
   height: 1px;
   background: var(--gold);
 }
+
+/* toggle button */
+.pa-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--sans);
+  font-size: 0.68rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--gold-dark);
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  transition: color 0.2s;
+  margin-top: 0.2rem;
+}
+.pa-toggle:hover { color: var(--gold); }
+.pa-toggle-icon {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border: 1px solid currentColor;
+  border-radius: 50%;
+  line-height: 14px;
+  text-align: center;
+  font-size: 0.8rem;
+  transition: transform 0.3s;
+}
+.pa-card.open .pa-toggle-icon { transform: rotate(45deg); }
 
 /* ── CONTACT PAGE ── */
 .contact-layout {
