@@ -1,0 +1,69 @@
+---
+layout: base.njk
+lang: es
+title: Asesores Extranjeros
+description: "Red internacional de asesores de Tesserae Bureau con presencia en Lima, Londres, Ciudad de México, Miami, París, Panamá y Washington D.C."
+permalink: /es/asesores-extranjeros/
+---
+
+<section class="page-hero">
+  <p class="section-label">Equipo</p>
+  <h1 class="page-hero-title">Asesores<br><em>Extranjeros</em></h1>
+</section>
+
+<section style="padding:7rem 8vw; background:var(--cream-light);">
+  <p style="max-width:60ch; font-size:0.9rem; line-height:1.9; color:var(--charcoal-mid); margin-bottom:4rem;">
+    Nuestra red internacional de asesores amplía nuestra capacidad en sectores especializados y mercados clave. Operamos oficinas corresponsales en Lima, Londres, Ciudad de México, Miami, París, Panamá y Washington D.C.
+  </p>
+
+  <div class="team-grid-cards">
+
+    <div class="team-card" data-reveal>
+      <div class="team-card-body" style="padding-top:2rem;">
+        <h2 class="team-card-name">Milton Montoya Pardo</h2>
+        <p class="team-card-role">Asesor Extranjero &middot; Energía &middot; Derecho Minero</p>
+        <p class="team-card-bio">Doctor en Derecho con Máster en Derecho de la Energía. Ex Asesor Presidencial de la Agencia Nacional Minera de Colombia. Consultor del Instituto Federal Alemán de Geociencias y Recursos Naturales y de la Sociedad Alemana de Cooperación Internacional. Director de Investigaciones del Departamento de Derecho Minero-Energético de la Universidad Externado de Colombia. Of Counsel en Holland &amp; Knight Colombia.</p>
+        <p class="team-card-bio" style="margin-top:0.8rem;">Miembro del Consejo Académico de la Sección de Energía y Recursos Naturales de la IBA. Amplia experiencia en sectores energéticos colombiano y latinoamericano, asuntos regulatorios, ambientales y desarrollo de proyectos extractivos.</p>
+        <p class="team-card-bio" style="margin-top:0.8rem;"><strong style="color:var(--gold); font-size:0.6rem; letter-spacing:0.2em; text-transform:uppercase;">Formación:</strong><br>
+          Investigación Postdoctoral (Newton Fund-British Council Scholar) – University of Dundee<br>
+          Doctorado en Derecho – Universidad Complutense de Madrid<br>
+          Máster en Derecho de la Energía – Instituto Superior de la Energía / Fundación Repsol-YPF<br>
+          Diploma en Regulación Eléctrica y Gas; Abogado – Universidad Externado de Colombia
+        </p>
+        <p class="team-card-bio" style="margin-top:0.5rem;"><strong style="color:var(--gold); font-size:0.6rem; letter-spacing:0.2em; text-transform:uppercase;">Idiomas:</strong> Español · Inglés · Alemán</p>
+        <a href="mailto:info@tesseraebureau.com" class="team-card-email">info@tesseraebureau.com</a>
+      </div>
+    </div>
+
+  </div>
+
+  <div style="margin-top:5rem; padding-top:4rem; border-top:1px solid rgba(44,43,40,0.1);">
+    <p class="section-label">Socio Estratégico</p>
+    <h2 class="section-title" style="margin-bottom:1.5rem;"><em>Excom Solutions</em></h2>
+    <p style="font-size:0.9rem; line-height:1.9; color:var(--charcoal-mid); max-width:55ch;">Consultoría especializada en comercio internacional, identificación de oportunidades de negocio y promoción internacional global. Presencia en China, Alemania y España.</p>
+  </div>
+</section>
+
+<section style="padding:6rem 8vw; background:var(--charcoal);">
+  <p class="section-label" style="color:var(--gold);">Alcance Global</p>
+  <h2 style="font-family:var(--serif); font-size:clamp(1.8rem,3vw,3rem); font-weight:300; color:var(--cream-light); line-height:1.1; max-width:24ch; margin-bottom:2.5rem;">
+    Corresponsales en <em style="color:var(--gold-light);">siete ciudades</em>
+  </h2>
+  <div style="display:grid; grid-template-columns:repeat(auto-fill,minmax(160px,1fr)); gap:1.5rem; max-width:700px;">
+    {% set cities = [
+      {city: "Lima", country: "Perú"},
+      {city: "Londres", country: "Reino Unido"},
+      {city: "Ciudad de México", country: "México"},
+      {city: "Miami", country: "EE.UU."},
+      {city: "París", country: "Francia"},
+      {city: "Panamá", country: "Panamá"},
+      {city: "Washington D.C.", country: "EE.UU."}
+    ] %}
+    {% for item in cities %}
+    <div>
+      <p style="font-size:0.6rem; letter-spacing:0.2em; text-transform:uppercase; color:var(--gold); margin-bottom:0.3rem;">{{ item.country }}</p>
+      <p style="font-size:0.85rem; color:rgba(237,233,224,0.8);">{{ item.city }}</p>
+    </div>
+    {% endfor %}
+  </div>
+</section>

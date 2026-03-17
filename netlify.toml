@@ -1,0 +1,21 @@
+[build]
+  command   = "npm install && npm run build"
+  publish   = "_site"
+
+[build.environment]
+  NODE_VERSION = "18"
+
+# Redirects
+[[redirects]]
+  from   = "/"
+  to     = "/es/"
+  status = 301
+
+[[redirects]]
+  from   = "/blog"
+  to     = "/es/blog/"
+  status = 301
+
+# Netlify Identity for CMS auth
+[template.environment]
+  NETLIFY_USE_YARN = "false"

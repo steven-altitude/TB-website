@@ -1,0 +1,76 @@
+---
+layout: base.njk
+---
+<!-- ── POST HERO ── -->
+<section class="page-hero" style="min-height:40dvh;">
+  <p class="section-label">{{ "Blog" if lang != "en" else "Blog" }}</p>
+  <h1 class="page-hero-title" style="font-size:clamp(1.8rem,3.5vw,4rem); max-width:32ch;">{{ title }}</h1>
+</section>
+
+<!-- ── POST BODY ── -->
+<div class="post-wrapper">
+
+  {% if image %}
+    <img src="{{ image }}" alt="{{ image_alt or title }}" class="post-featured-img" loading="eager">
+  {% endif %}
+
+  <div class="post-layout">
+
+    <article class="post-body">
+      <!-- Date + Author -->
+      <div style="display:flex; align-items:center; gap:2rem; margin-bottom:2.5rem; flex-wrap:wrap;">
+        <p class="blog-date">{{ date | readableDate(lang == "en" and "en-US" or "es-EC") }}</p>
+        {% if author %}
+          <p style="font-size:0.7rem; letter-spacing:0.15em; text-transform:uppercase; color:var(--charcoal-mid);">{{ author }}</p>
+        {% endif %}
+        {% if tags %}
+          <div style="display:flex; gap:0.5rem; flex-wrap:wrap;">
+            {% for tag in tags %}
+              <span style="font-size:0.6rem; letter-spacing:0.18em; text-transform:uppercase; color:var(--gold); border:1px solid rgba(184,150,90,0.3); padding:0.2rem 0.6rem;">{{ tag }}</span>
+            {% endfor %}
+          </div>
+        {% endif %}
+      </div>
+
+      {{ content | safe }}
+
+      <!-- Back to blog -->
+      <div style="margin-top:3rem; padding-top:2rem; border-top:1px solid var(--cream-dark);">
+        <a href="{% if lang == 'en' %}/en/blog/{% else %}/es/blog/{% endif %}" class="pillar-link" style="color:var(--charcoal-mid);">
+          &larr; {% if lang == 'en' %}Back to Blog{% else %}Volver al Blog{% endif %}
+        </a>
+      </div>
+    </article>
+
+    <!-- Sidebar -->
+    <aside class="post-sidebar">
+      <div class="sidebar-widget">
+        <h4>{% if lang == 'en' %}About the Firm{% else %}La Firma{% endif %}</h4>
+        <p>{% if lang == 'en' %}Boutique law firm specializing in energy, investment, litigation and corporate law across Ecuador, Colombia and Spain.{% else %}Estudio jurídico boutique especializado en energía, inversiones, litigios y derecho corporativo en Ecuador, Colombia y España.{% endif %}</p>
+        <a href="{% if lang == 'en' %}/en/contact/{% else %}/es/contacto/{% endif %}" class="btn-primary" style="font-size:0.62rem; padding:0.75rem 1.5rem;">
+          {% if lang == 'en' %}Request Consultation{% else %}Solicitar Consulta{% endif %}
+        </a>
+      </div>
+
+      <div class="sidebar-widget">
+        <h4>{% if lang == 'en' %}Practice Areas{% else %}Áreas de Práctica{% endif %}</h4>
+        {% if lang == 'en' %}
+          <div class="sidebar-post"><a href="/en/practice-areas/#investment">Investment Consulting</a></div>
+          <div class="sidebar-post"><a href="/en/practice-areas/#litigation">Litigation &amp; ADR</a></div>
+          <div class="sidebar-post"><a href="/en/practice-areas/#corporate">Corporate · M&amp;A</a></div>
+          <div class="sidebar-post"><a href="/en/practice-areas/#energy">Energy · Mining</a></div>
+          <div class="sidebar-post"><a href="/en/practice-areas/#telecom">Telecommunications</a></div>
+          <div class="sidebar-post"><a href="/en/practice-areas/#due-diligence">Due Diligence</a></div>
+        {% else %}
+          <div class="sidebar-post"><a href="/es/areas-de-practica/#inversiones">Asesoría en Inversiones</a></div>
+          <div class="sidebar-post"><a href="/es/areas-de-practica/#litigios">Litigios y Arbitraje</a></div>
+          <div class="sidebar-post"><a href="/es/areas-de-practica/#corporativo">Corporativo · M&amp;A</a></div>
+          <div class="sidebar-post"><a href="/es/areas-de-practica/#energetico">Energético · Minería</a></div>
+          <div class="sidebar-post"><a href="/es/areas-de-practica/#telecomunicaciones">Telecomunicaciones</a></div>
+          <div class="sidebar-post"><a href="/es/areas-de-practica/#due-diligence">Due Diligence</a></div>
+        {% endif %}
+      </div>
+    </aside>
+
+  </div>
+</div>

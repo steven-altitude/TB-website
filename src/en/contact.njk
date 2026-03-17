@@ -1,0 +1,91 @@
+---
+layout: base.njk
+lang: en
+title: Contact
+description: "Contact Tesserae Bureau in Quito, Bogotá or Madrid. Legal consultations in investments, litigation, energy and more."
+permalink: /en/contact/
+---
+
+<section class="page-hero">
+  <p class="section-label">Get In Touch</p>
+  <h1 class="page-hero-title">Con<em>tact</em></h1>
+</section>
+
+<section style="padding:7rem 8vw; background:var(--cream-light);">
+  <div class="contact-layout">
+
+    <div class="contact-form-col">
+      <p class="section-label">Form</p>
+      <h2 class="section-title" style="margin-bottom:2rem;">Tell us about<br>your <em>matter</em></h2>
+      <p style="font-size:0.88rem; line-height:1.8; color:var(--charcoal-mid); margin-bottom:2.5rem;">Fill out the form to get in touch with us. All inquiries are reviewed directly by our partners.</p>
+
+      <form name="contact-en" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" class="contact-form">
+        <input type="hidden" name="form-name" value="contact-en">
+        <p style="display:none"><label>Don't fill this out: <input name="bot-field"></label></p>
+
+        <div class="form-group">
+          <label for="name">Full name *</label>
+          <input type="text" id="name" name="name" required placeholder="Your name">
+        </div>
+        <div class="form-group">
+          <label for="email">Email address *</label>
+          <input type="email" id="email" name="email" required placeholder="you@company.com">
+        </div>
+        <div class="form-group">
+          <label for="company">Company or organization</label>
+          <input type="text" id="company" name="company" placeholder="Company name">
+        </div>
+        <div class="form-group">
+          <label for="area">Area of interest</label>
+          <select id="area" name="area">
+            <option value="">Select an area</option>
+            <option>Investment Consulting</option>
+            <option>Litigation &amp; Alternative Dispute Resolution</option>
+            <option>Corporate – M&amp;A</option>
+            <option>Telecommunications</option>
+            <option>Energy</option>
+            <option>Due Diligence</option>
+            <option>Pro Bono</option>
+            <option>Other</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="message">Message *</label>
+          <textarea id="message" name="message" rows="5" required placeholder="Briefly describe your inquiry..."></textarea>
+        </div>
+        <button type="submit" class="btn-primary" style="width:100%; text-align:center;">Send Message</button>
+      </form>
+    </div>
+
+    <div class="contact-info-col">
+      <p class="section-label">Offices</p>
+      <h2 class="section-title" style="margin-bottom:2.5rem;">Find us in<br><em>three countries</em></h2>
+
+      <div class="office-block">
+        <p style="font-size:0.6rem; letter-spacing:0.25em; text-transform:uppercase; color:var(--gold); margin-bottom:0.75rem;">Ecuador</p>
+        <p style="font-size:0.9rem; font-weight:500; color:var(--charcoal); margin-bottom:0.4rem;">Quito</p>
+        <p style="font-size:0.85rem; color:var(--charcoal-mid); line-height:1.7;">Av. Eloy Alfaro y Av. 6 de Diciembre<br>ZIZA Building, Floor 3, Office 303<br>Quito, Ecuador</p>
+        <p style="font-size:0.85rem; color:var(--charcoal-mid); margin-top:0.5rem;"><a href="tel:+59323923057" style="color:inherit;">(593) 2 392 3057</a></p>
+      </div>
+
+      <div class="office-block">
+        <p style="font-size:0.6rem; letter-spacing:0.25em; text-transform:uppercase; color:var(--gold); margin-bottom:0.75rem;">Colombia</p>
+        <p style="font-size:0.9rem; font-weight:500; color:var(--charcoal); margin-bottom:0.4rem;">Bogotá D.C.</p>
+        <p style="font-size:0.85rem; color:var(--charcoal-mid); line-height:1.7;">Calle 145 No. 46-80<br>Bogotá D.C., Colombia</p>
+        <p style="font-size:0.85rem; color:var(--charcoal-mid); margin-top:0.5rem;"><a href="tel:+573015429181" style="color:inherit;">00 (57) 301 542 9181</a></p>
+      </div>
+
+      <div class="office-block">
+        <p style="font-size:0.6rem; letter-spacing:0.25em; text-transform:uppercase; color:var(--gold); margin-bottom:0.75rem;">Spain</p>
+        <p style="font-size:0.9rem; font-weight:500; color:var(--charcoal); margin-bottom:0.4rem;">Madrid</p>
+        <p style="font-size:0.85rem; color:var(--charcoal-mid); line-height:1.7;">Strategic alliances with specialized firms</p>
+      </div>
+
+      <div class="office-block">
+        <p style="font-size:0.6rem; letter-spacing:0.25em; text-transform:uppercase; color:var(--gold); margin-bottom:0.75rem;">Email</p>
+        <p style="font-size:0.85rem; color:var(--charcoal-mid);"><a href="mailto:info@tesseraebureau.com" style="color:var(--charcoal);">info@tesseraebureau.com</a></p>
+      </div>
+    </div>
+
+  </div>
+</section>

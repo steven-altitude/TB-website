@@ -1,0 +1,59 @@
+---
+layout: base.njk
+lang: en
+title: Team
+description: "Tesserae Bureau's team brings together high-caliber legal and financial professionals selected on merit — specialists in energy, investments, litigation and more."
+permalink: /en/team/
+---
+
+<section class="page-hero">
+  <p class="section-label">Talent</p>
+  <h1 class="page-hero-title">Our<br><em>Team</em></h1>
+</section>
+
+<section style="padding:7rem 8vw; background:var(--cream-light);">
+  <p style="max-width:60ch; font-size:0.9rem; line-height:1.9; color:var(--charcoal-mid); margin-bottom:4rem;">
+    Meritocracy guides our talent selection. We bring together outstanding legal and financial professionals without adhering to conservative traditional firm structures. Each team member contributes direct sector expertise in the fields where our clients operate.
+  </p>
+
+  <div class="team-nav-grid">
+    <a href="/en/partners/" class="team-nav-card" data-reveal>
+      <p class="team-nav-num">01</p>
+      <h2 class="team-nav-title">Partners</h2>
+      <p class="team-nav-desc">The three founding partners assume direct responsibility over every matter. Complementary expertise in litigation, energy-environmental law, and investment advisory.</p>
+      <span class="team-nav-link">View Partners &rarr;</span>
+    </a>
+    <a href="/en/associates/" class="team-nav-card" data-reveal data-reveal-delay="1">
+      <p class="team-nav-num">02</p>
+      <h2 class="team-nav-title">Associates &amp; Paralegals</h2>
+      <p class="team-nav-desc">Team of senior associates and legal assistants with specialized training in arbitration, mining-energy law, corporate, and procedural law.</p>
+      <span class="team-nav-link">View Associates &rarr;</span>
+    </a>
+    <a href="/en/advisors/" class="team-nav-card" data-reveal data-reveal-delay="2">
+      <p class="team-nav-num">03</p>
+      <h2 class="team-nav-title">International Legal Advisors</h2>
+      <p class="team-nav-desc">International advisor network with correspondent offices in Lima, London, Mexico City, Miami, Paris, Panama, and Washington D.C.</p>
+      <span class="team-nav-link">View Advisors &rarr;</span>
+    </a>
+    <a href="/en/finance/" class="team-nav-card" data-reveal data-reveal-delay="3">
+      <p class="team-nav-num">04</p>
+      <h2 class="team-nav-title">Finance Department</h2>
+      <p class="team-nav-desc">International accounting and finance specialists with expertise in double taxation agreements of Colombia and Ecuador.</p>
+      <span class="team-nav-link">View Department &rarr;</span>
+    </a>
+  </div>
+</section>
+
+<section style="padding:6rem 8vw; background:var(--charcoal);">
+  <p class="section-label" style="color:var(--gold);">International Presence</p>
+  <h2 style="font-family:var(--serif); font-size:clamp(1.8rem,3vw,3rem); font-weight:300; color:var(--cream-light); line-height:1.1; max-width:28ch; margin-bottom:2.5rem;">
+    Correspondent offices in <em style="color:var(--gold-light);">seven cities</em>
+  </h2>
+  <div style="display:flex; flex-wrap:wrap; gap:1rem 2.5rem;">
+    {% set cities = ["Lima", "London", "Mexico City", "Miami", "Paris", "Panama", "Washington D.C."] %}
+    {% for city in cities %}
+    <span style="font-size:0.75rem; letter-spacing:0.2em; text-transform:uppercase; color:rgba(237,233,224,0.5);">{{ city }}</span>
+    {% endfor %}
+  </div>
+  <p style="font-size:0.85rem; color:rgba(237,233,224,0.5); margin-top:2rem; max-width:50ch;">Strategic partner: <strong style="color:rgba(237,233,224,0.8);">Excom Solutions</strong> — international trade consulting with presence in China, Germany, and Spain.</p>
+</section>

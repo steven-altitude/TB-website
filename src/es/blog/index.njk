@@ -1,0 +1,50 @@
+---
+layout: base.njk
+lang: es
+title: Blog
+description: "Publicaciones de Tesserae Bureau sobre derecho energético, arbitraje, inversiones y regulación en Ecuador y Latinoamérica."
+permalink: /es/blog/
+---
+
+<section class="page-hero" style="min-height:35dvh;">
+  <p class="section-label">Publicaciones</p>
+  <h1 class="page-hero-title">Nuestro <em>Blog</em></h1>
+</section>
+
+<section class="blog-archive">
+  {% set posts = collections.postsES %}
+  {% if posts and posts.length > 0 %}
+    <div class="blog-archive-grid">
+      {% for post in posts %}
+        <article class="archive-card" data-reveal>
+          <div class="archive-card-thumb">
+            {% if post.data.image %}
+              <a href="{{ post.url }}">
+                <img src="{{ post.data.image }}" alt="{{ post.data.image_alt or post.data.title }}" loading="lazy">
+              </a>
+            {% else %}
+              <div style="width:100%;height:100%;background:var(--cream-dark);"></div>
+            {% endif %}
+          </div>
+          <div class="archive-card-body">
+            <p class="blog-date">{{ post.date | readableDate }}</p>
+            <a href="{{ post.url }}" class="archive-card-title">{{ post.data.title }}</a>
+            {% if post.data.excerpt %}
+              <p class="archive-card-excerpt">{{ post.data.excerpt }}</p>
+            {% endif %}
+            {% if post.data.tags %}
+              <div style="display:flex; gap:0.4rem; flex-wrap:wrap; margin-bottom:1rem;">
+                {% for tag in post.data.tags %}
+                  <span style="font-size:0.58rem; letter-spacing:0.15em; text-transform:uppercase; color:var(--gold); border:1px solid rgba(184,150,90,0.25); padding:0.15rem 0.5rem;">{{ tag }}</span>
+                {% endfor %}
+              </div>
+            {% endif %}
+            <a href="{{ post.url }}" class="pillar-link" style="color:var(--gold-dark);">Leer artículo &rarr;</a>
+          </div>
+        </article>
+      {% endfor %}
+    </div>
+  {% else %}
+    <p style="font-size:0.9rem; color:var(--charcoal-mid);">Próximamente nuevas publicaciones.</p>
+  {% endif %}
+</section>

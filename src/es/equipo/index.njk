@@ -1,0 +1,59 @@
+---
+layout: base.njk
+lang: es
+title: Equipo
+description: "El equipo de Tesserae Bureau reúne profesionales de alto nivel en derecho, energía, inversiones y finanzas — seleccionados por meritocracia."
+permalink: /es/equipo/
+---
+
+<section class="page-hero">
+  <p class="section-label">Talento</p>
+  <h1 class="page-hero-title">Nuestro<br><em>Equipo</em></h1>
+</section>
+
+<section style="padding:7rem 8vw; background:var(--cream-light);">
+  <p style="max-width:60ch; font-size:0.9rem; line-height:1.9; color:var(--charcoal-mid); margin-bottom:4rem;">
+    La meritocracia guía nuestra selección de talento. Reunimos profesionales legales y financieros de excelencia sin atarnos a estructuras conservadoras de firmas tradicionales. Cada integrante aporta experticia directa en los sectores donde operan nuestros clientes.
+  </p>
+
+  <div class="team-nav-grid">
+    <a href="/es/socias/" class="team-nav-card" data-reveal>
+      <p class="team-nav-num">01</p>
+      <h2 class="team-nav-title">Socias</h2>
+      <p class="team-nav-desc">Las tres socias fundadoras asumen responsabilidad directa sobre cada asunto. Experticia complementaria en litigios, derecho energético-ambiental y asesoría en inversiones.</p>
+      <span class="team-nav-link">Ver Socias &rarr;</span>
+    </a>
+    <a href="/es/asociados/" class="team-nav-card" data-reveal data-reveal-delay="1">
+      <p class="team-nav-num">02</p>
+      <h2 class="team-nav-title">Asociados y Paralegales</h2>
+      <p class="team-nav-desc">Equipo de asociados senior y asistentes legales con formación especializada en arbitraje, derecho minero-energético, corporativo y procesal.</p>
+      <span class="team-nav-link">Ver Asociados &rarr;</span>
+    </a>
+    <a href="/es/asesores-extranjeros/" class="team-nav-card" data-reveal data-reveal-delay="2">
+      <p class="team-nav-num">03</p>
+      <h2 class="team-nav-title">Asesores Extranjeros</h2>
+      <p class="team-nav-desc">Red internacional de asesores con presencia en Lima, Londres, Ciudad de México, Miami, París, Panamá y Washington D.C.</p>
+      <span class="team-nav-link">Ver Asesores &rarr;</span>
+    </a>
+    <a href="/es/departamento-financiero/" class="team-nav-card" data-reveal data-reveal-delay="3">
+      <p class="team-nav-num">04</p>
+      <h2 class="team-nav-title">Departamento Financiero</h2>
+      <p class="team-nav-desc">Especialistas en contabilidad y finanzas internacionales con experiencia en convenios de doble tributación de Colombia y Ecuador.</p>
+      <span class="team-nav-link">Ver Departamento &rarr;</span>
+    </a>
+  </div>
+</section>
+
+<section style="padding:6rem 8vw; background:var(--charcoal);">
+  <p class="section-label" style="color:var(--gold);">Presencia Internacional</p>
+  <h2 style="font-family:var(--serif); font-size:clamp(1.8rem,3vw,3rem); font-weight:300; color:var(--cream-light); line-height:1.1; max-width:28ch; margin-bottom:2.5rem;">
+    Oficinas corresponsales en <em style="color:var(--gold-light);">siete ciudades</em>
+  </h2>
+  <div style="display:flex; flex-wrap:wrap; gap:1rem 2.5rem;">
+    {% set cities = ["Lima", "Londres", "Ciudad de México", "Miami", "París", "Panamá", "Washington D.C."] %}
+    {% for city in cities %}
+    <span style="font-size:0.75rem; letter-spacing:0.2em; text-transform:uppercase; color:rgba(237,233,224,0.5);">{{ city }}</span>
+    {% endfor %}
+  </div>
+  <p style="font-size:0.85rem; color:rgba(237,233,224,0.5); margin-top:2rem; max-width:50ch;">Socio estratégico: <strong style="color:rgba(237,233,224,0.8);">Excom Solutions</strong> — consultoría de comercio internacional con presencia en China, Alemania y España.</p>
+</section>

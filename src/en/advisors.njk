@@ -1,0 +1,69 @@
+---
+layout: base.njk
+lang: en
+title: International Legal Advisors
+description: "Tesserae Bureau's international advisor network with correspondent offices in Lima, London, Mexico City, Miami, Paris, Panama, and Washington D.C."
+permalink: /en/advisors/
+---
+
+<section class="page-hero">
+  <p class="section-label">Team</p>
+  <h1 class="page-hero-title">International<br><em>Advisors</em></h1>
+</section>
+
+<section style="padding:7rem 8vw; background:var(--cream-light);">
+  <p style="max-width:60ch; font-size:0.9rem; line-height:1.9; color:var(--charcoal-mid); margin-bottom:4rem;">
+    Our international advisor network expands our capacity in specialized sectors and key markets. We operate correspondent offices in Lima, London, Mexico City, Miami, Paris, Panama, and Washington D.C.
+  </p>
+
+  <div class="team-grid-cards">
+
+    <div class="team-card" data-reveal>
+      <div class="team-card-body" style="padding-top:2rem;">
+        <h2 class="team-card-name">Milton Montoya Pardo</h2>
+        <p class="team-card-role">International Advisor &middot; Energy &middot; Mining Law</p>
+        <p class="team-card-bio">Ph.D. in Law with a Master's in Energy Law. Former Presidential Advisor at Colombia's National Mining Agency. Consultant to the German Federal Institute for Geosciences and Natural Resources and the German International Cooperation Society. Research Director at Universidad Externado de Colombia's Mining-Energy Law Department. Of Counsel at Holland &amp; Knight Colombia.</p>
+        <p class="team-card-bio" style="margin-top:0.8rem;">Member of the Academic Council of the IBA's Energy and Natural Resources Section. Extensive experience in Colombian and Latin American energy sectors, regulatory matters, environmental issues, and extractive project development.</p>
+        <p class="team-card-bio" style="margin-top:0.8rem;"><strong style="color:var(--gold); font-size:0.6rem; letter-spacing:0.2em; text-transform:uppercase;">Education:</strong><br>
+          Post-Doctoral Research (Newton Fund-British Council Scholar) – University of Dundee<br>
+          Ph.D. in Law – Universidad Complutense de Madrid<br>
+          Master in Energy Law – Instituto Superior de la Energía / Repsol-YPF Foundation<br>
+          Diploma in Electric Energy &amp; Gas Regulation; Lawyer – Universidad Externado de Colombia
+        </p>
+        <p class="team-card-bio" style="margin-top:0.5rem;"><strong style="color:var(--gold); font-size:0.6rem; letter-spacing:0.2em; text-transform:uppercase;">Languages:</strong> Spanish · English · German</p>
+        <a href="mailto:info@tesseraebureau.com" class="team-card-email">info@tesseraebureau.com</a>
+      </div>
+    </div>
+
+  </div>
+
+  <div style="margin-top:5rem; padding-top:4rem; border-top:1px solid rgba(44,43,40,0.1);">
+    <p class="section-label">Strategic Partner</p>
+    <h2 class="section-title" style="margin-bottom:1.5rem;"><em>Excom Solutions</em></h2>
+    <p style="font-size:0.9rem; line-height:1.9; color:var(--charcoal-mid); max-width:55ch;">Specialized international trade consulting, business opportunity identification, and global international promotion. Presence in China, Germany, and Spain.</p>
+  </div>
+</section>
+
+<section style="padding:6rem 8vw; background:var(--charcoal);">
+  <p class="section-label" style="color:var(--gold);">Global Reach</p>
+  <h2 style="font-family:var(--serif); font-size:clamp(1.8rem,3vw,3rem); font-weight:300; color:var(--cream-light); line-height:1.1; max-width:24ch; margin-bottom:2.5rem;">
+    Correspondents in <em style="color:var(--gold-light);">seven cities</em>
+  </h2>
+  <div style="display:grid; grid-template-columns:repeat(auto-fill,minmax(160px,1fr)); gap:1.5rem; max-width:700px;">
+    {% set cities = [
+      {city: "Lima", country: "Peru"},
+      {city: "London", country: "UK"},
+      {city: "Mexico City", country: "Mexico"},
+      {city: "Miami", country: "USA"},
+      {city: "Paris", country: "France"},
+      {city: "Panama", country: "Panama"},
+      {city: "Washington D.C.", country: "USA"}
+    ] %}
+    {% for item in cities %}
+    <div>
+      <p style="font-size:0.6rem; letter-spacing:0.2em; text-transform:uppercase; color:var(--gold); margin-bottom:0.3rem;">{{ item.country }}</p>
+      <p style="font-size:0.85rem; color:rgba(237,233,224,0.8);">{{ item.city }}</p>
+    </div>
+    {% endfor %}
+  </div>
+</section>
