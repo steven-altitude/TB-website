@@ -40,6 +40,14 @@
         });
       }
     });
+    window.netlifyIdentity.on("login", function() {
+      document.location.href = "/admin/";
+    });
+    // Auto-open when email confirmation/invite token is in the URL
+    var hash = window.location.hash;
+    if (hash && hash.indexOf("_token=") > -1) {
+      window.netlifyIdentity.open();
+    }
   }
 </script>
 </body>
