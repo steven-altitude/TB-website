@@ -32,22 +32,15 @@
 <script src="/assets/js/main.js"></script>
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 <script>
+  // If identity token is in the URL hash, redirect to /admin/ so the CMS widget handles it
+  var hash = window.location.hash;
+  if (hash && hash.indexOf("_token=") > -1) {
+    window.location.replace("/admin/" + hash);
+  }
   if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", function(user) {
-      if (!user) {
-        window.netlifyIdentity.on("login", function() {
-          document.location.href = "/admin/";
-        });
-      }
-    });
     window.netlifyIdentity.on("login", function() {
       document.location.href = "/admin/";
     });
-    // Auto-open when email confirmation/invite token is in the URL
-    var hash = window.location.hash;
-    if (hash && hash.indexOf("_token=") > -1) {
-      window.netlifyIdentity.open();
-    }
   }
 </script>
 </body>
