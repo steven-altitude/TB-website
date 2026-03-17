@@ -10,7 +10,7 @@ lang: es
 title: Una breve mirada a los desafíos técnicos, ambientales, financieros y
   legales de la Ampliación de la Autopista Norte en Bogotá D.C.
 date: 2026-03-09
-image: /assets/img/blog/2u7ifve4gihlucaerbqqj_u33n8u0q.png
+image: ""
 tags:
   - infraestructura
   - Colombia
