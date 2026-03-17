@@ -20,7 +20,7 @@
 {% endif %}
 
 <!-- ── CONTENT ── -->
-{% block content %}{% endblock %}
+{{ content | safe }}
 
 <!-- ── FOOTER ── -->
 {% if lang == "en" %}
