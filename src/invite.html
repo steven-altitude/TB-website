@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex">
+  <title>Tesserae Bureau – Activar cuenta</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: sans-serif;
+      background: #2C2B28;
+      color: #EDE9E0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      text-align: center;
+      padding: 2rem;
+    }
+    h1 { font-size: 1.4rem; font-weight: 300; margin-bottom: 0.5rem; letter-spacing: 0.05em; }
+    p { font-size: 0.85rem; opacity: 0.6; }
+  </style>
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+<body>
+  <h1>TESSERAE BUREAU</h1>
+  <p>Activando su cuenta...</p>
+  <script>
+    netlifyIdentity.on("init", function(user) {
+      if (user) {
+        window.location.href = "/admin/";
+      } else {
+        netlifyIdentity.open();
+      }
+    });
+    netlifyIdentity.on("login", function() {
+      window.location.href = "/admin/";
+    });
+  </script>
+</body>
+</html>

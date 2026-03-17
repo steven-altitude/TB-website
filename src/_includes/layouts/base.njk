@@ -32,13 +32,13 @@
 <script src="/assets/js/main.js"></script>
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 <script>
+  var _hash = window.location.hash;
+  if (_hash && _hash.indexOf("_token=") > -1) {
+    window.location.replace("/invite/" + _hash);
+  }
   if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", function(user) {
-      if (!user) {
-        window.netlifyIdentity.on("login", function() {
-          document.location.href = "/admin/";
-        });
-      }
+    window.netlifyIdentity.on("login", function() {
+      document.location.href = "/admin/";
     });
   }
 </script>
