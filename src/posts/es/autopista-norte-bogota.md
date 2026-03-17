@@ -1,16 +1,21 @@
 ---
-title: "Una breve mirada a los desafíos técnicos, ambientales, financieros y legales de la Ampliación de la Autopista Norte en Bogotá D.C."
+excerpt: La ampliación de la Autopista Norte en Bogotá representa uno de los
+  proyectos de infraestructura vial más complejos y controversiales de la
+  capital colombiana, con implicaciones que van desde la gestión predial hasta
+  la normativa ambiental.
+layout: post.njk
+author: Carlos Ospina Vasco
+permalink: /es/blog/autopista-norte-bogota/
+lang: es
+title: Una breve mirada a los desafíos técnicos, ambientales, financieros y
+  legales de la Ampliación de la Autopista Norte en Bogotá D.C.
 date: 2026-03-09
-author: "Carlos Ospina Vasco"
-excerpt: "La ampliación de la Autopista Norte en Bogotá representa uno de los proyectos de infraestructura vial más complejos y controversiales de la capital colombiana, con implicaciones que van desde la gestión predial hasta la normativa ambiental."
+image: /assets/img/blog/2u7ifve4gihlucaerbqqj_u33n8u0q.png
 tags:
   - infraestructura
   - Colombia
   - ambiental
   - inversiones
-layout: post.njk
-lang: es
-permalink: /es/blog/autopista-norte-bogota/
 ---
 
 La ampliación de la Autopista Norte en Bogotá D.C. representa uno de los proyectos de infraestructura vial más complejos y controversiales de la capital colombiana en años recientes. Su ejecución involucra una intersección de desafíos técnicos, ambientales, financieros y legales que ilustran la complejidad propia de los grandes proyectos de concesión vial en contextos urbanos densamente poblados.
