@@ -24,7 +24,7 @@ body {
   font-family: var(--sans);
   font-weight: 300;
   overflow-x: hidden;
-  font-size: 16px;
+  font-size: 17px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -681,7 +681,7 @@ nav {
 .blog-title-link:hover { color: var(--gold-light); }
 
 .blog-excerpt {
-  font-size: 0.82rem;
+  font-size: 0.88rem;
   line-height: 1.75;
   color: rgba(237,233,224,0.6);
   display: -webkit-box;
@@ -1007,7 +1007,7 @@ footer {
 .archive-card-title:hover { color: var(--gold-dark); }
 
 .archive-card-excerpt {
-  font-size: 0.82rem;
+  font-size: 0.88rem;
   line-height: 1.75;
   color: var(--charcoal-mid);
   margin-bottom: 1.5rem;
@@ -1163,7 +1163,7 @@ footer {
   margin-bottom: 1.2rem;
 }
 
-.sidebar-widget p { font-size: 0.8rem; line-height: 1.8; color: var(--charcoal-mid); margin-bottom: 1.2rem; }
+.sidebar-widget p { font-size: 0.86rem; line-height: 1.8; color: var(--charcoal-mid); margin-bottom: 1.2rem; }
 
 .sidebar-post {
   border-top: 1px solid var(--cream-dark);
@@ -1233,7 +1233,7 @@ footer {
 }
 
 .team-card-bio {
-  font-size: 0.82rem;
+  font-size: 0.88rem;
   line-height: 1.8;
   color: var(--charcoal-mid);
   margin-bottom: 1rem;
@@ -1348,7 +1348,7 @@ footer {
 }
 
 .pa-list li {
-  font-size: 0.82rem;
+  font-size: 0.88rem;
   color: var(--charcoal-mid);
   line-height: 1.6;
   padding-left: 1.2rem;
@@ -1430,7 +1430,7 @@ footer {
 
 .cause-num { font-size: 0.62rem; letter-spacing: 0.25em; color: var(--gold); margin-bottom: 0.6rem; text-transform: uppercase; }
 .cause-title { font-family: var(--serif); font-size: 1.2rem; color: var(--charcoal); margin-bottom: 0.5rem; }
-.cause-text { font-size: 0.82rem; line-height: 1.7; color: var(--charcoal-mid); }
+.cause-text { font-size: 0.88rem; line-height: 1.7; color: var(--charcoal-mid); }
 
 /* ── SCROLL ANIMATIONS ── */
 [data-reveal] {
@@ -1478,6 +1478,41 @@ footer {
   .hero-left { padding: 8rem 6vw 4rem; }
   .nav-links { display: none; }
   .nav-hamburger { display: flex; }
+
+  /* Mobile menu open state */
+  body.nav-open .nav-links {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: var(--cream-light);
+    padding: 6rem 8vw 3rem;
+    z-index: 150;
+    gap: 0;
+    overflow-y: auto;
+  }
+  body.nav-open .nav-links > li > a {
+    display: block;
+    font-size: 1.1rem;
+    padding: 1rem 0;
+    border-bottom: 1px solid rgba(44,43,40,0.08);
+    letter-spacing: 0.05em;
+  }
+  body.nav-open .nav-links .sub-menu {
+    display: block;
+    position: static;
+    box-shadow: none;
+    border: none;
+    background: none;
+    padding: 0 0 0 1rem;
+  }
+  body.nav-open .nav-links .sub-menu li a {
+    font-size: 0.78rem;
+    padding: 0.5rem 0;
+    border-bottom: none;
+  }
+  body.nav-open .nav-hamburger { z-index: 160; }
+  body.nav-open .nav-right { display: none; }
   .team-grid-cards { grid-template-columns: 1fr; }
   .blog-archive-grid { grid-template-columns: 1fr; }
   .footer-nav-grid { grid-template-columns: 1fr; }
