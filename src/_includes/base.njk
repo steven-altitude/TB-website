@@ -30,17 +30,11 @@
 {% endif %}
 
 <script src="/assets/js/main.js"></script>
-<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 <script>
-  // Redirect any identity token to the dedicated invite page
-  var _hash = window.location.hash;
-  if (_hash && _hash.indexOf("_token=") > -1) {
-    window.location.replace("/invite/" + _hash);
-  }
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("login", function() {
-      document.location.href = "/admin/";
-    });
+  // Pure redirect — no identity widget here so the token is not consumed before /invite/ loads
+  var _h = window.location.hash;
+  if (_h && _h.indexOf("_token=") > -1) {
+    window.location.replace("/invite/" + _h);
   }
 </script>
 </body>
