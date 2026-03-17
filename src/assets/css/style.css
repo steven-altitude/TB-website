@@ -101,7 +101,7 @@ nav {
 .nav-links .sub-menu {
   display: none;
   position: absolute;
-  top: calc(100% + 1.2rem);
+  top: 100%;
   left: 0;
   min-width: 230px;
   background: rgba(245, 242, 236, 0.98);
@@ -110,6 +110,12 @@ nav {
   list-style: none;
   padding: 0.5rem 0;
   z-index: 200;
+}
+
+/* Transparent bridge fills the gap so mouse can reach the dropdown */
+.nav-links .menu-item-has-children {
+  padding-bottom: 1.2rem;
+  margin-bottom: -1.2rem;
 }
 
 .nav-links li:hover > .sub-menu { display: block; }
@@ -567,7 +573,7 @@ nav {
   gap: 3px;
 }
 
-.practice-grid .area-card:last-child { grid-column: 2; }
+.practice-grid .area-card:last-child { grid-column: auto; }
 
 .area-card {
   background: var(--cream-light);
