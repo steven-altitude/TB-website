@@ -24,7 +24,7 @@ body {
   font-family: var(--sans);
   font-weight: 300;
   overflow-x: hidden;
-  font-size: 17px;
+  font-size: 18px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -237,7 +237,7 @@ nav {
 }
 
 .hero-sub {
-  font-size: 0.9rem;
+  font-size: 1rem;
   line-height: 1.85;
   letter-spacing: 0.02em;
   color: var(--charcoal-mid);
@@ -408,7 +408,7 @@ nav {
 }
 
 .pillar-text {
-  font-size: 0.85rem;
+  font-size: 1rem;
   line-height: 1.9;
   color: rgba(237,233,224,0.65);
   letter-spacing: 0.01em;
@@ -416,7 +416,7 @@ nav {
 }
 
 .pillar-link {
-  font-size: 0.62rem;
+  font-size: 0.72rem;
   letter-spacing: 0.25em;
   text-transform: uppercase;
   color: var(--gold);
@@ -613,7 +613,7 @@ nav {
 }
 
 .area-desc {
-  font-size: 0.85rem;
+  font-size: 1rem;
   line-height: 1.8;
   color: var(--charcoal-mid);
   transition: color 0.3s;
@@ -1262,7 +1262,7 @@ footer {
 .about-intro-text .section-title { margin-bottom: 2rem; }
 
 .about-intro-text p {
-  font-size: 0.9rem;
+  font-size: 1rem;
   line-height: 1.9;
   color: var(--charcoal-mid);
   margin-bottom: 1.5rem;
@@ -1317,7 +1317,7 @@ footer {
 
 .value-num { font-family: var(--serif); font-size: 0.65rem; letter-spacing: 0.3em; color: var(--gold); margin-bottom: 1rem; }
 .value-title { font-family: var(--serif); font-size: 1.5rem; color: var(--cream-light); margin-bottom: 0.8rem; font-weight: 400; }
-.value-text { font-size: 0.85rem; line-height: 1.9; color: rgba(237,233,224,0.55); }
+.value-text { font-size: 1rem; line-height: 1.9; color: rgba(237,233,224,0.55); }
 
 /* ── PRACTICE AREAS PAGE ── */
 .practice-areas-grid {
@@ -1337,7 +1337,7 @@ footer {
 
 .pa-num { font-size: 0.62rem; letter-spacing: 0.3em; color: var(--gold); margin-bottom: 0.8rem; text-transform: uppercase; }
 .pa-title { font-family: var(--serif); font-size: 1.5rem; color: var(--charcoal); margin-bottom: 0.8rem; font-weight: 400; line-height: 1.2; }
-.pa-lead { font-size: 0.85rem; color: var(--charcoal-mid); margin-bottom: 1.5rem; line-height: 1.7; }
+.pa-lead { font-size: 1rem; color: var(--charcoal-mid); margin-bottom: 1.5rem; line-height: 1.7; }
 
 .pa-list {
   list-style: none;
@@ -1403,7 +1403,7 @@ footer {
 
 .team-nav-num { font-size: 0.62rem; letter-spacing: 0.3em; color: var(--gold); margin-bottom: 0.8rem; text-transform: uppercase; }
 .team-nav-title { font-family: var(--serif); font-size: 1.6rem; color: var(--charcoal); margin-bottom: 0.8rem; font-weight: 400; line-height: 1.2; }
-.team-nav-desc { font-size: 0.84rem; color: var(--charcoal-mid); line-height: 1.7; margin-bottom: 1.5rem; }
+.team-nav-desc { font-size: 1rem; color: var(--charcoal-mid); line-height: 1.7; margin-bottom: 1.5rem; }
 .team-nav-link { font-size: 0.68rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--gold); }
 
 /* ── PRO BONO ── */
@@ -1415,7 +1415,7 @@ footer {
   margin-top: 3rem;
 }
 
-.probono-text p { font-size: 0.9rem; line-height: 1.9; color: var(--charcoal-mid); margin-bottom: 1.5rem; }
+.probono-text p { font-size: 1rem; line-height: 1.9; color: var(--charcoal-mid); margin-bottom: 1.5rem; }
 
 .probono-causes { display: flex; flex-direction: column; gap: 3px; }
 
