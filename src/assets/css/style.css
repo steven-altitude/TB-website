@@ -29,6 +29,23 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+/* ── TEXT JUSTIFICATION ── */
+.hero-sub,
+.pillar-text,
+.area-desc,
+.about-intro-text p,
+.dark-section > p,
+.value-text,
+.probono-text p,
+.cause-text,
+.team-card-bio,
+.pa-lead,
+.post-body p,
+.sidebar-widget p {
+  text-align: justify;
+  hyphens: auto;
+}
+
 /* ── NAV ── */
 nav {
   position: fixed;
