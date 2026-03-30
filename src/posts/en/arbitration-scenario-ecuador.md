@@ -8,6 +8,8 @@ tags:
   - Ecuador
   - investment law
 layout: post.njk
+image: "https://picsum.photos/seed/arbitration-la/1200/600"
+image_alt: "Arbitration and investment law"
 lang: en
 permalink: /en/blog/arbitration-scenario-ecuador/
 ---

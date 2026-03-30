@@ -8,6 +8,8 @@ tags:
   - litigios
   - Ecuador
 layout: post.njk
+image: "https://picsum.photos/seed/arbitraje-ec/1200/600"
+image_alt: "Arbitraje y justicia"
 lang: es
 permalink: /es/blog/nulidad-laudo-arbitral/
 ---
