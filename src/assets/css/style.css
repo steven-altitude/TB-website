@@ -591,7 +591,8 @@ nav {
 }
 
 .practice-grid .area-card:last-child { grid-column: auto; }
-.area-card--wide { grid-column: 1 / -1; }
+.area-card--wide,
+.practice-grid .area-card--wide { grid-column: 1 / -1; }
 .area-card--wide .area-desc { max-width: 70ch; }
 
 .area-card {
