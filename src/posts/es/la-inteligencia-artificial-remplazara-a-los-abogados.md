@@ -6,7 +6,7 @@ excerpt: "En este último año ha estado de moda el tema de la inteligencia arti
 tags:
   - publicaciones
 layout: post.njk
-image: "https://picsum.photos/seed/la-inteligencia-arti/1200/600"
+image: /assets/img/blog/la-inteligencia-artificial-remplazara-a-los-abogados.jpg
 image_alt: "¿La inteligencia artificial remplazará a los aboga"
 lang: es
 permalink: /es/blog/la-inteligencia-artificial-remplazara-a-los-abogados/

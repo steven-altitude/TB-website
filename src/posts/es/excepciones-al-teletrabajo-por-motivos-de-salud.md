@@ -6,7 +6,7 @@ excerpt: "Dada la emergencia sanitaria en la que se encuentra el mundo, la mayor
 tags:
   - publicaciones
 layout: post.njk
-image: "https://picsum.photos/seed/excepciones-al-telet/1200/600"
+image: /assets/img/blog/excepciones-al-teletrabajo-por-motivos-de-salud.jpg
 image_alt: "EXCEPCIONES AL TELETRABAJO POR MOTIVOS DE SALUD"
 lang: es
 permalink: /es/blog/excepciones-al-teletrabajo-por-motivos-de-salud/

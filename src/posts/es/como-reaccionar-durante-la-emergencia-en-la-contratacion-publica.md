@@ -6,7 +6,7 @@ excerpt: "A propósito de la pandemia y ante las medidas de restricción de movi
 tags:
   - publicaciones
 layout: post.njk
-image: "https://picsum.photos/seed/como-reaccionar-dura/1200/600"
+image: /assets/img/blog/como-reaccionar-durante-la-emergencia-en-la-contratacion-publica.jpg
 image_alt: "¿Cómo reaccionar durante la emergencia en la Contr"
 lang: es
 permalink: /es/blog/como-reaccionar-durante-la-emergencia-en-la-contratacion-publica/
