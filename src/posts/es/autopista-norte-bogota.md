@@ -4,7 +4,7 @@ excerpt: La ampliación de la Autopista Norte en Bogotá representa uno de los
   capital colombiana, con implicaciones que van desde la gestión predial hasta
   la normativa ambiental.
 layout: post.njk
-author: Carlos Ospina Vasco
+author: Valentina Fuentes Vargas
 permalink: /es/blog/autopista-norte-bogota/
 lang: es
 title: Una breve mirada a los desafíos técnicos, ambientales, financieros y

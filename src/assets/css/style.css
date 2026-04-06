@@ -1249,7 +1249,15 @@ footer {
   letter-spacing: 0.18em;
   text-transform: uppercase;
   color: var(--gold);
+  margin-bottom: 0.4rem;
+}
+
+.team-card-areas {
+  font-size: 0.72rem;
+  letter-spacing: 0.05em;
+  color: var(--charcoal-mid);
   margin-bottom: 1rem;
+  line-height: 1.6;
 }
 
 .team-card-bio {
@@ -1268,6 +1276,18 @@ footer {
 }
 
 .team-card-email:hover { color: var(--gold); }
+
+.team-card-linkedin {
+  display: inline-block;
+  margin-top: 0.4rem;
+  font-size: 0.65rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--gold-dark);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.team-card-linkedin:hover { color: var(--gold); }
 
 /* ── ABOUT PAGE ── */
 .about-intro {

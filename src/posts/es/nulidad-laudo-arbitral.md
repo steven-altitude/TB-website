@@ -1,7 +1,7 @@
 ---
 title: "La nulidad que llegó tarde: límite constitucional al control judicial del laudo arbitral"
 date: 2026-02-20
-author: "Paola Bermúdez Roldán"
+author: "Bryan Escaleras Martínez"
 excerpt: "El recurso de nulidad del laudo arbitral es el mecanismo procesal previsto para impugnar decisiones arbitrales que adolezcan de vicios formales o que vulneren garantías fundamentales. Su naturaleza es excepcional."
 tags:
   - arbitraje
