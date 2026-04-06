@@ -1313,8 +1313,9 @@ footer {
 
 .about-img img {
   width: 100%;
-  aspect-ratio: 4/5;
+  aspect-ratio: 3/2;
   object-fit: cover;
+  object-position: center top;
 }
 
 .about-img-caption {
