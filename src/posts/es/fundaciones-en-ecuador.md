@@ -8,7 +8,7 @@ tags:
   - Ecuador
   - fundaciones
 layout: post.njk
-image: "https://picsum.photos/seed/ecuador-legal/1200/600"
+image: /assets/img/blog/fundaciones-ecuador.jpg
 image_alt: "Derecho corporativo Ecuador"
 lang: es
 permalink: /es/blog/fundaciones-en-ecuador/

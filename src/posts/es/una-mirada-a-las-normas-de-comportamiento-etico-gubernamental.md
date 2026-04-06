@@ -1,0 +1,25 @@
+---
+title: "Una mirada a las normas de comportamiento ético gubernamental"
+date: 2021-08-02
+author: "Tesserae Bureau"
+excerpt: "Mediante el Decreto Ejecutivo 4 de 24 de mayo de 2021, se establecen las Normas de comportamiento ético gubernamental a las que se someterán los servidores públicos de la Función Ejecutiva en el cu..."
+tags:
+  - publicaciones
+layout: post.njk
+image: /assets/img/blog/una-mirada-a-las-normas-de-comportamiento-etico-gubernamental.jpg
+image_alt: "Una mirada a las normas de comportamiento ético gu"
+lang: es
+permalink: /es/blog/una-mirada-a-las-normas-de-comportamiento-etico-gubernamental/
+---
+
+Mediante el Decreto Ejecutivo 4 de 24 de mayo de 2021, se establecen las Normas de comportamiento ético gubernamental a las que se someterán los servidores públicos de la Función Ejecutiva en el cumplimiento de sus deberes y ejercicio de sus competencias. Las indicadas normas son mandatorias para: el Presidente, el Vicepresidente, los Ministros de Estado, los Viceministros de Estado, Los Secretarios de Estado, los Subsecretarios de Estado, las máximas autoridades de agencias, servicios o entidades de control adscritas o integrantes de la Función Ejecutiva, los directivos de las empresas públicas adscritas a la Función Ejecutiva, en general, todo funcionario público de la Función Ejecutiva que, por las potestades que ejerza, esté en una posición de favorecer o perjudicar directamente los derechos e intereses legítimos de cualquier ciudadano; o de influir directa o indirectamente en decisiones públicas que puedan afectar estos mismos derechos o intereses. 
+
+A lo largo del texto, entre otras, se establecen normas acerca de los vínculos familiares y conflictos de interés, definiendo el nepotismo, estableciéndose que los familiares del Presidente, del Vicepresidente, Ministros y Viceministros de Estado, Secretarios, gerentes y directores de las empresas públicas, hasta el cuarto grado de consanguinidad y segundo de afinidad o aquellos con quienes exista una relación por uniones de hecho, los cuales no podrán ser contratados o designados para cargo público alguno en las entidades en las que su familiar hubiese sido designado o tuviese participación directa, incluyendo órganos colegiados y entidades adscritas a tal entidad. En caso de conflicto de intereses el funcionario deberá declarar previo a posesionarse en su cargo y en caso de ser sobreviniente, deberá comunicar a la Secretaría General de la Administración Pública y al Gabinete.
+
+Se establece además que los cónyuges del Presidente y Vicepresidente no recibirán sueldo, remuneración o compensación a cualquier título, se instituyen disposiciones sobre el uso de aviones, vehículos y otros medios de transporte institucionales y limitaciones adicionales al nepotismo en la contratación, estableciéndose que** **los familiares de los funcionarios señalados en el artículo 2 de este Decreto Ejecutivo están impedidos de: a) Contratar, directa o indirectamente, con las entidades públicas de la Función Ejecutiva;  b) Visitar o contactar órganos o entidades públicas para gestionar, directa o indirectamente, contratos públicos: c) Disponer de bienes públicos d) Dar o solicitar a los servidores públicos incluyendo personal de secretaría, choferes o conserjes, favores o servicios para asuntos de carácter personal o doméstico. Estarán exentos de los impedimentos descritos en los literales a) y b) los familiares que, de forma documental, puedan demostrar que han venido realizando con anteriores actividades económicas, empresariales y/o profesionales relacionadas o con vínculos al sector público
+
+Además las entidades públicas sujetas a este instrumento normativo se encuentran prohibidas de contratar con personas jurídicas privadas en cuyos directorios u organismos de administración participen directamente familiares de los funcionarios señalados en el artículo 2. Tampoco deberán contratar con empresas que, de forma directa o indirecta, ofrezcan sus productos o servicios aduciendo la existencia de lazos de amistad con los servidores públicos que funjan como máximas autoridades o sus delegados o quienes ejerzan cargos directivos de nivel jerárquico superior o con los familiares de estos servidores, dentro del segundo grado de afinidad y cuarto de consanguinidad.
+
+Finalmente, se establecen restricciones a gestiones inapropiadas con otras entidades del Estado, se regula el tema de la transparencia que abarca revelación de agendas públicas, ruedas de prensa, atención de reuniones por requerimiento formal, restricción a cláusulas secretas o reservadas, promoción de buenas prácticas corporativas, regalos, obsequios, rifas y colectas, promoción de imagen personal, retratos de autoridades y organizaciones, entre otros. De igual manera, se establecen disposiciones respecto a la igualdad de oportunidades y buen trato y finalmente sobre la supervisión y cumplimiento a cargo de la Secretaría General de la Administración Pública y Gabinete.
+
+*La información aquí publicada no constituye ni consejo ni asesoría legal, siendo su función meramente informativa*
