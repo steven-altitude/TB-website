@@ -592,7 +592,7 @@ nav {
 
 .practice-grid .area-card:last-child { grid-column: auto; }
 .area-card--wide,
-.practice-grid .area-card--wide { grid-column: 1 / -1; }
+.practice-grid .area-card.area-card--wide { grid-column: 1 / -1; }
 .area-card--wide .area-desc { max-width: 70ch; }
 
 .area-card {
@@ -1543,6 +1543,7 @@ footer {
   .philosophy-grid { grid-template-columns: 1fr; }
   .practice-grid { grid-template-columns: 1fr 1fr; }
   .practice-grid .area-card:last-child { grid-column: auto; }
+  .practice-grid .area-card.area-card--wide { grid-column: 1 / -1; }
   .blog-grid { grid-template-columns: 1fr; }
   .contact { grid-template-columns: 1fr; }
   footer { grid-template-columns: 1fr; }
