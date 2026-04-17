@@ -1566,6 +1566,7 @@ footer {
   nav { padding: 1rem 4vw; }
   .nav-links { display: none; }
   .nav-hamburger { display: flex; }
+  .nav-right { display: none; }
 
   /* Mobile menu open state */
   body.nav-open .nav-links {
