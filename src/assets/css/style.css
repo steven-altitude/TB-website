@@ -1561,11 +1561,8 @@ footer {
   .team-nav-grid { grid-template-columns: 1fr; }
 }
 
-@media (max-width: 600px) {
-  .practice-grid { grid-template-columns: 1fr; }
-  .form-row { grid-template-columns: 1fr; }
+@media (max-width: 900px) {
   nav { padding: 1rem 4vw; }
-  .hero-left { padding: 8rem 6vw 4rem; }
   .nav-links { display: none; }
   .nav-hamburger { display: flex; }
 
@@ -1603,6 +1600,12 @@ footer {
   }
   body.nav-open .nav-hamburger { z-index: 160; }
   body.nav-open .nav-right { display: none; }
+}
+
+@media (max-width: 600px) {
+  .practice-grid { grid-template-columns: 1fr; }
+  .form-row { grid-template-columns: 1fr; }
+  .hero-left { padding: 8rem 6vw 4rem; }
   .team-grid-cards { grid-template-columns: 1fr; }
   .blog-archive-grid { grid-template-columns: 1fr; }
   .footer-nav-grid { grid-template-columns: 1fr; }
