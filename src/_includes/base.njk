@@ -31,11 +31,20 @@
 {% endif %}
 
 <script src="/assets/js/main.js"></script>
+
+<!-- Netlify Identity Widget (Decap CMS auth) -->
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 <script>
-  // Pure redirect — no identity widget here so the token is not consumed before /invite/ loads
-  var _h = window.location.hash;
-  if (_h && _h.indexOf("_token=") > -1) {
-    window.location.replace("/invite/" + _h);
+  // Handle Netlify Identity login/recovery/invite flows for Decap CMS
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", function (user) {
+      // After successful login, send the user to the CMS admin
+      if (!user) {
+        window.netlifyIdentity.on("login", function () {
+          document.location.href = "/admin/";
+        });
+      }
+    });
   }
 </script>
 </body>

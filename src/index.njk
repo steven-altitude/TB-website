@@ -6,11 +6,38 @@ eleventyExcludeFromCollections: true
 <html lang="es">
 <head>
 <meta charset="utf-8">
-<meta http-equiv="refresh" content="0; url=/es/">
 <title>Tesserae Bureau</title>
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<script>
+  // If the URL contains a Netlify Identity token (recovery, invite, confirmation,
+  // email change, access), DO NOT redirect — let the Identity widget handle it.
+  (function () {
+    var hash = window.location.hash || "";
+    var hasIdentityToken = /(#|&)(recovery|invite|confirmation|email_change|access)_token=/.test(hash);
+
+    if (hasIdentityToken) {
+      // Once the widget has finished its flow (login or close), send the user to the CMS.
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", function (user) {
+          if (!user) {
+            window.netlifyIdentity.on("login", function () {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+      return; // stop here — widget will open the appropriate modal automatically
+    }
+
+    // Normal visitor → redirect to Spanish site
+    window.location.replace("/es/");
+  })();
+</script>
+<noscript><meta http-equiv="refresh" content="0; url=/es/"></noscript>
 </head>
 <body>
-<script>window.location.replace('/es/');</script>
-<p><a href="/es/">Ir al sitio</a></p>
+<p style="font-family:system-ui;text-align:center;margin:4rem;">
+  <a href="/es/">Ir al sitio en español</a> · <a href="/en/">Go to English site</a>
+</p>
 </body>
 </html>
