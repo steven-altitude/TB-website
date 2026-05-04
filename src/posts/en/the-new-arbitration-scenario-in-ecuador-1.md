@@ -4,10 +4,7 @@ excerpt: According to information from the Attorney General's Office, Ecuador
   has paid significant sums in international arbitration awards — a trend that
   shapes how foreign investors must approach dispute resolution in the country.
 image_alt: Arbitration and investment law
-layout: post.njk
 author: Paola Bermúdez Roldán
-permalink: /en/blog/arbitration-scenario-ecuador/
-lang: en
 date: 2019-05-01
 image: https://picsum.photos/seed/arbitration-la/1200/600
 tags:
