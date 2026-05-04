@@ -1,7 +1,7 @@
----
+﻿---
 title: "ENTRADA EN VIGENCIA DE LA LEY ORGÁNICA DE APOYO HUMANITARIO PARA COMBATIR LA CRISIS SANITARIA DERIVADA DEL COVID-19"
 date: 2020-06-20
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "En razón del tratamiento y votación de la objeción parcial remitida por el Presidente de la República al proyecto de Ley Orgánica de Apoyo Humanitario para combatir la crisis sanitaria derivada del..."
 tags:
   - publicaciones

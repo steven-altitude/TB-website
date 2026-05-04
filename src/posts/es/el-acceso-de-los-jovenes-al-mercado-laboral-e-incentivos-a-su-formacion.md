@@ -1,7 +1,7 @@
----
+﻿---
 title: "El acceso de los jóvenes al mercado laboral e incentivos a su formación"
 date: 2020-11-13
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El pasado 30 de octubre de 2020, el Ministerio de Trabajo expidió el Acuerdo Ministerial No. MDT-2020-2223 que contiene las directrices para regular el régimen especial de contratación para el acce..."
 tags:
   - publicaciones

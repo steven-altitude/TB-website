@@ -1,7 +1,7 @@
----
+﻿---
 title: "La Ley de Apoyo Humanitario y la cultura del no pago"
 date: 2020-06-24
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Una posible consecuencia que se está analizando a nivel mundial en el campo económico es la cultura del no pago. Todos los analistas, principalmente económicos, toman como causa de esta cultura a l..."
 tags:
   - publicaciones

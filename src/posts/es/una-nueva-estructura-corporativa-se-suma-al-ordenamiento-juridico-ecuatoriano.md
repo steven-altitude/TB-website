@@ -1,7 +1,7 @@
----
+﻿---
 title: "Una nueva estructura corporativa se suma al ordenamiento jurídico ecuatoriano"
 date: 2020-06-11
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El 28 de febrero de 2020, Ecuador introdujo a la clasificación de compañías una nueva, denominada Sociedad por Acciones Simplificadas (SAS). Lo dicho se configura con ocasión de la nueva Ley de Emp..."
 tags:
   - publicaciones

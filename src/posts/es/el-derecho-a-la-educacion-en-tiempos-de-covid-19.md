@@ -1,7 +1,7 @@
----
+﻿---
 title: "El derecho a la educación en tiempos de Covid-19"
 date: 2020-10-07
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Es importante comenzar precisando que, según la Constitución ecuatoriana, “La educación es un derecho de las personas (…) y un deber ineludible e inexcusable del Estado”, además el mismo Estado es ..."
 tags:
   - publicaciones

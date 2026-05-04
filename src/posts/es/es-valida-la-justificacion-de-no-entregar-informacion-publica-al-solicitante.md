@@ -1,7 +1,7 @@
----
+﻿---
 title: "¿Es válida la justificación de no entregar información pública al solicitante que tuvo conocimiento previo de la misma? ¿La entidad pública vulnera el derecho de acceso a la información pública?"
 date: 2025-04-01
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "En varios casos tramitados por la Firma, hemos observado un patrón preocupante dentro de procesos de garantías jurisdiccionales, específicamente en acciones de acceso a la información pública. Las ..."
 tags:
   - publicaciones

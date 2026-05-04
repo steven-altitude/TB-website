@@ -1,7 +1,7 @@
----
+﻿---
 title: "La Economía Colaborativa, un reto de implementación en el área laboral (Casos: Uber y Glovo)"
 date: 2020-04-03
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "La primera crisis económica mundial del siglo XXI (dot com) y las crisis venideras del siglo en curso, no solo han afectado a las economías de gran escala, sino también, en mayor medida a las econo..."
 tags:
   - publicaciones

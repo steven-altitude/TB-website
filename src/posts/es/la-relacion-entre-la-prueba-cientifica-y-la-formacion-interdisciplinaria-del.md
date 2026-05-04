@@ -1,7 +1,7 @@
----
+﻿---
 title: "La relación entre la prueba científica y la formación interdisciplinaria del litigante"
 date: 2024-03-06
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Los casos complejos que, por el paso del tiempo y el avance tecnológico van apareciendo dentro de la práctica del Derecho, ha conminado a los operadores de justicia y abogados litigantes a consider..."
 tags:
   - publicaciones

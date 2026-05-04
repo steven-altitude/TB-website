@@ -1,7 +1,7 @@
----
+﻿---
 title: "¿La inteligencia artificial remplazará a los abogados?"
 date: 2023-12-27
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "En este último año ha estado de moda el tema de la inteligencia artificial, sobre todo en la IA Chat GPT y su integración con los servicios y buscadores, este modelo de “OpenAI” tuvo llegada en muc..."
 tags:
   - publicaciones

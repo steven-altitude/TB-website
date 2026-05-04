@@ -1,7 +1,7 @@
----
+﻿---
 title: "“Cláusula Corona” ¿dotará de mayor flexibilidad a los contratos privados?"
 date: 2020-07-07
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "A raíz de la emergencia sanitaría global a causa del COVID 19, ha surgido un nuevo lenguaje en el mundo de los contratos: “la cláusula corona” o  “corona clause”. Muchas empresas son reacias a firm..."
 tags:
   - publicaciones

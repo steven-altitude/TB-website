@@ -1,7 +1,7 @@
----
+﻿---
 title: "Fórmula Para El Cálculo De La Variación Anual Al Salario Básico Unificado"
 date: 2020-10-15
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El 17 de septiembre fue suscrito por el Ministro del Trabajo el Acuerdo MDT-2020-185 con el cual se expidió la “Fórmula Y El Procedimiento Técnico Para El Cálculo De La Variación Anual Al Salario B..."
 tags:
   - publicaciones

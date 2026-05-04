@@ -1,7 +1,7 @@
----
+﻿---
 title: "Regulación de la Inteligencia Artificial en Ecuador: un paso necesario para el futuro"
 date: 2025-03-08
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "La inteligencia artificial (IA) está transformando la sociedad en múltiples áreas, desde la salud hasta la educación y la seguridad. Sin embargo, su implementación sin una regulación adecuada puede..."
 tags:
   - publicaciones

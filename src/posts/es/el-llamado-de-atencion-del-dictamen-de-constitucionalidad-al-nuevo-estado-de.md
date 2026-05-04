@@ -1,7 +1,7 @@
----
+﻿---
 title: "EL LLAMADO DE ATENCIÓN DEL DICTAMEN DE CONSTITUCIONALIDAD AL NUEVO ESTADO DE EXCEPCIÓN"
 date: 2020-07-01
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El 29 de junio pasado, la Corte Constitucional emitió el dictamen de constitucionalidad por estado de excepción 03-20-EE mediante el cual determinó la constitucionalidad del estado de excepción imp..."
 tags:
   - publicaciones

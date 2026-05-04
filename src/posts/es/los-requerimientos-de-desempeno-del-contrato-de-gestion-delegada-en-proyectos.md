@@ -1,7 +1,7 @@
----
+﻿---
 title: "LOS REQUERIMIENTOS DE DESEMPEÑO DEL CONTRATO DE GESTIÓN DELEGADA EN PROYECTOS APP O PPP"
 date: 2020-08-20
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Continuando con la serie anterior de artículos relacionados con las APP, ahora, es necesario abordar las condiciones de desempeño de los contratos de Gestión Delegada. Como se había indicado, el pr..."
 tags:
   - publicaciones

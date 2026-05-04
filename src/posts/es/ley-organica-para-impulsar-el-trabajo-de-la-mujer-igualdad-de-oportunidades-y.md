@@ -1,7 +1,7 @@
----
+﻿---
 title: "Ley Orgánica para impulsar el trabajo de la Mujer, igualdad de oportunidades y la Economía Violeta"
 date: 2022-01-26
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Desde la segunda mitad del siglo XX las diferentes ciencias sociales han ido incorporando nuevas perspectivas de análisis que consideran un enfoque de género dentro de sus estudios. La investigació..."
 tags:
   - publicaciones

@@ -1,7 +1,7 @@
----
+﻿---
 title: "El sigilo bancario y la contratación pública ¿es posible su convivencia?"
 date: 2020-10-02
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El pasado 28 de septiembre, en la Edición Oficial del Registro Oficial No. 1078 se publicó la Resolución RE-SERCOP-2020-0110, misma que tuvo por objetivo modificar la Resolución No. RE-SERCOP-2016-..."
 tags:
   - publicaciones

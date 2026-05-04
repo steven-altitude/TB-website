@@ -1,7 +1,7 @@
----
+﻿---
 title: "La caducidad en los procedimientos de la Contraloría"
 date: 2025-06-24
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "En el ámbito del control público, uno de los aspectos más delicados, es el manejo del tiempo. La Contraloría General del Estado (CGE), al ejercer sus facultades de control, está sujeta a plazos esp..."
 tags:
   - publicaciones

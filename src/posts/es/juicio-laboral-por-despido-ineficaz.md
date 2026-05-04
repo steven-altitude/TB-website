@@ -1,7 +1,7 @@
----
+﻿---
 title: "JUICIO LABORAL POR DESPIDO INEFICAZ"
 date: 2021-03-22
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Mediante Resolución No. 05-21, la Corte Nacional de Justicia el 5 de marzo de 2021, procedió a resolver sobre los juicios individuales de trabajo, dentro de los cuales, mujeres trabajadoras en esta..."
 tags:
   - publicaciones

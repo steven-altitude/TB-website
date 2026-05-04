@@ -1,7 +1,7 @@
----
+﻿---
 title: "El TELETRABAJO en Ecuador  “Una opción viable y dinamizadora de la economía empresarial”"
 date: 2019-10-30
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "A finales del año 2016, se establece dentro del Ministerio del Trabajo como una prueba piloto la práctica del teletrabajo. Así, el Ministerio del Trabajo con el fin de normar esta práctica laboral,..."
 tags:
   - publicaciones

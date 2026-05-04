@@ -1,7 +1,7 @@
----
+﻿---
 title: "Una nueva normalidad laboral"
 date: 2020-08-28
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "En estos últimos días, la sociedad ecuatoriana se ha hecho eco de la decisión del Ejecutivo en terminar con el Estado de Excepción implantado desde el 16 de marzo. Con seis (6) meses de restricción..."
 tags:
   - publicaciones

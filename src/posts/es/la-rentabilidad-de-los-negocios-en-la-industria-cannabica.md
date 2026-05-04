@@ -1,7 +1,7 @@
----
+﻿---
 title: "La rentabilidad de los negocios en la Industria Cannábica"
 date: 2020-09-08
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Con la legalización del cannabis, sea de forma medicinal o de uso recreativo a nivel mundial, la industria del cannabis se ha convertido en una de las inversiones de más alta rentabilidad, ya que l..."
 tags:
   - publicaciones

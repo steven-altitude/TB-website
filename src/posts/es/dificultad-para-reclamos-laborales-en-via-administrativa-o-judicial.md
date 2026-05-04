@@ -1,7 +1,7 @@
----
+﻿---
 title: "DIFICULTAD PARA RECLAMOS LABORALES EN VIA ADMINISTRATIVA O JUDICIAL"
 date: 2020-10-23
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Este 2020, no ha sido un año fácil en ningún aspecto para el mundo entero. Uno de los ámbitos que se vio sumamente afectado, fue el laboral. Ello, considerando que, al existir restricciones de movi..."
 tags:
   - publicaciones

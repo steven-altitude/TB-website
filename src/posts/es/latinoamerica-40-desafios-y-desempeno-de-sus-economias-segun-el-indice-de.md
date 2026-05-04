@@ -1,7 +1,7 @@
----
+﻿---
 title: "¿Latinoamérica 4.0? Desafíos y desempeño de sus economías según el índice de competitividad 2018"
 date: 2018-12-14
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Sofía Zapata Gómez Socia El índice de competitividad 4.0. señala como en 2017 Latinoamérica ha aumentado su crecimiento de manera modesta. En este año países exportadores de commodities, como Brasi..."
 tags:
   - publicaciones

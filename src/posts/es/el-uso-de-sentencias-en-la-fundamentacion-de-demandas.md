@@ -1,7 +1,7 @@
----
+﻿---
 title: "EL USO DE SENTENCIAS EN LA FUNDAMENTACIÓN DE DEMANDAS"
 date: 2021-11-24
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Dentro de la práctica profesional, la redacción de una demanda es la parte más básica pero también la más importante para el éxito de un caso, dado que con el Código Orgánico General de Procesos (C..."
 tags:
   - publicaciones

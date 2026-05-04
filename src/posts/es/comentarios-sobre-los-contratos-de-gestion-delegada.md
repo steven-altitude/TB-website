@@ -1,7 +1,7 @@
----
+﻿---
 title: "Comentarios sobre los contratos de gestión delegada"
 date: 2021-05-19
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Los contratos de gestión delegada atienden a una naturaleza diferente de los de la materia de Contratación Pública. Dichos contratos de gestión van encaminados a la prestación privada del servicio ..."
 tags:
   - publicaciones

@@ -1,7 +1,7 @@
----
+﻿---
 title: "La especulación de precios en el Sector Alimentario con ocasión de la emergencia sanitaria"
 date: 2020-05-13
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El panorama de la emergencia sanitaria se ha visto acompañado de la especulación en los precios de los productos básicos alimentarios, sobre todo en el ámbito agrícola de alimentos básicos, en el c..."
 tags:
   - publicaciones

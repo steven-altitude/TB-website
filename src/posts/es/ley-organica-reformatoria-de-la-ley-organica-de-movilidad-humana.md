@@ -1,7 +1,7 @@
----
+﻿---
 title: "LEY ORGÁNICA REFORMATORIA DE LA LEY ORGÁNICA DE MOVILIDAD HUMANA"
 date: 2021-02-12
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El pasado 5 de febrero de 2021, se publicó en el Registro Oficial Tercer Suplemento No. 386, la Ley Orgánica Reformatoria de la Ley Orgánica de Movilidad Humana, misma que procede a modificar en gr..."
 tags:
   - publicaciones

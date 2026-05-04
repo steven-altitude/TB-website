@@ -1,7 +1,7 @@
----
+﻿---
 title: "La bicameralidad como nueva forma de organización legislativa en Ecuador"
 date: 2020-10-29
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Una antigua controversia a nivel latinoamericano, ha vuelto a ponerse en la mesa y ahora le tocó a Ecuador. El tema se constriñe a “la bicameralidad y unicameralidad como forma de organización del ..."
 tags:
   - publicaciones

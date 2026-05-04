@@ -1,7 +1,7 @@
----
+﻿---
 title: "¿“Dando, dando pajaritos volando” equivalente a “la mora purga la mora”?"
 date: 2020-10-08
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Sin duda alguna, el Derecho es el reflejo de la sociedad, más aún cuando las reglas plasmadas en códigos y leyes nacen o se traducen en refranes o frases del argot popular. Antes de esta egoísta er..."
 tags:
   - publicaciones

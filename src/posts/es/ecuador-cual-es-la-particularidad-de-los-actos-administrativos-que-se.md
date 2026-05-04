@@ -1,7 +1,7 @@
----
+﻿---
 title: "Ecuador: ¿Cuál es la particularidad de los actos administrativos que se expidieron con ocasión del Decreto Ejecutivo de Estado de Excepción 1017 de 16 de marzo de 2020 y su renovación del 15 de mayo?"
 date: 2020-06-23
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Comencemos señalando que un Estado de derechos como lo es Ecuador, está sujeto a normas determinadas que garantizan un adecuado accionar estatal frente al ciudadano, pero estas garantías se entiend..."
 tags:
   - publicaciones

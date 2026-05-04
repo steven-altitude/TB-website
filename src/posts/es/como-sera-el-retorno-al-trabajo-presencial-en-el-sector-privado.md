@@ -1,7 +1,7 @@
----
+﻿---
 title: "¿Cómo será el retorno al trabajo presencial en el Sector Privado?"
 date: 2020-09-22
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El pasado 14 de septiembre, se publicó en el Registro Oficial 288, el acuerdo Ministerial MDT-2020-093 que fue emitido en mayo del presente año, con la finalidad de desplegar las directrices para l..."
 tags:
   - publicaciones

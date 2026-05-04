@@ -1,7 +1,7 @@
----
+﻿---
 title: "Las recomendaciones de la Contraloría General del Estado"
 date: 2020-12-17
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Dentro de la administración pública nacional, se ha establecido el preconcepto de que las recomendaciones que emite la Contraloría General del Estado son de cumplimiento inmediato y obligatorio. Es..."
 tags:
   - publicaciones

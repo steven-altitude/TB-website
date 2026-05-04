@@ -1,7 +1,7 @@
----
+﻿---
 title: "La negativa por inconsistencias de forma, al ingreso de solicitudes y requerimientos ante las entidades públicas"
 date: 2023-02-03
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El Código Orgánico Administrativo (“COA”) y la Ley de Optimización y Eficiencia de Trámites Administrativos  (“LOETA”) son dos cuerpos normativos que regulan la relación entre la Administración Púb..."
 tags:
   - publicaciones

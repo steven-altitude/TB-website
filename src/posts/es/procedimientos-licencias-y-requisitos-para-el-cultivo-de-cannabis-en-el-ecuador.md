@@ -1,7 +1,7 @@
----
+﻿---
 title: "Procedimientos, licencias y requisitos para el cultivo de Cannabis en el Ecuador"
 date: 2021-01-18
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Con la creciente aprobación del consumo terapéutico y recreativo del cannabis a nivel mundial, el interés de inversionistas tanto pequeños como grandes por colocar sus capitales en esta industria h..."
 tags:
   - publicaciones

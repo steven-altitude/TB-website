@@ -1,7 +1,7 @@
----
+﻿---
 title: "A propósito del rechazo a la Ley de Defensa de la Dolarización, por parte del Consejo de Administración Legislativa"
 date: 2021-03-03
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "En relación a la nueva negativa por parte del Consejo de Administración Legislativa (CAL) del proyecto de Ley de Defensa de la Dolarización, surgen varias inquietudes jurídicas tanto en materia de ..."
 tags:
   - publicaciones

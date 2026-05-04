@@ -1,7 +1,7 @@
----
+﻿---
 title: "¿Se prohibirá la minería en Cuenca?"
 date: 2020-09-24
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El 18 de septiembre de 2020 la Corte Constitucional ecuatoriana emitió una resolución favorable sobre un pedido de consulta popular, la cual tiene como finalidad la prohibición de la actividad mine..."
 tags:
   - publicaciones

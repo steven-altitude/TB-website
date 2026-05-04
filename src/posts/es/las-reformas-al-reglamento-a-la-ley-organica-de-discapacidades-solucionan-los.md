@@ -1,7 +1,7 @@
----
+﻿---
 title: "¿Las Reformas al Reglamento a la Ley Orgánica de Discapacidades, solucionan los problemas estructurales de la obtención ilegal de documentos de discapacidad?"
 date: 2020-07-21
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Con la finalidad de evitar el mal uso de los beneficios y exenciones legales que establece la normativa mediante el Decreto Ejecutivo Nro. 1097, suscrito el 17 de julio, se reformó el Reglamento a ..."
 tags:
   - publicaciones

@@ -1,7 +1,7 @@
----
+﻿---
 title: "<strong>Hidrógeno Verde en Ecuador</strong>"
 date: 2023-02-09
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "De conformidad con el artículo 261 de la Constitución, el Estado tiene competencias exclusivas sobre los recursos energéticos, mineral, hidrocarburos, hídricos, biodiversidad y recursos forestales...."
 tags:
   - publicaciones

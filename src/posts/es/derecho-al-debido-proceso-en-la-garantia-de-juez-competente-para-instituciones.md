@@ -1,7 +1,7 @@
----
+﻿---
 title: "Derecho al debido proceso en la garantía de juez competente, para instituciones públicas. Comentarios a la sentencia 0838-12-EP/19."
 date: 2021-12-17
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El 04 de septiembre de 2019, la Corte Constitucional emitió la sentencia 0838-12-EP/19 misma que trata sobre una Acción Extraordinaria de Protección planteada por el Gobierno Autónomo Descentraliza..."
 tags:
   - publicaciones

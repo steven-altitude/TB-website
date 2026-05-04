@@ -1,7 +1,7 @@
----
+﻿---
 title: "El Internet Fijo ¿servicio público domiciliario (servicio básico)?"
 date: 2020-04-16
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Durante las últimas décadas la forma de convivencia de la humanidad y los procesos de obtención de datos, conocimientos e información han variado de una manera trascendental gracias a la presencia ..."
 tags:
   - publicaciones

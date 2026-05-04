@@ -1,7 +1,7 @@
----
+﻿---
 title: "La verdad material y la verdad procesal"
 date: 2024-04-29
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "En la historia de la ciencia del derecho y en específico de la teoría del proceso, siempre se ha mencionado al fenómeno de la prueba, el cual comprende contradicciones o variantes que sitúan en com..."
 tags:
   - publicaciones

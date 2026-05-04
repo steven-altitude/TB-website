@@ -1,7 +1,7 @@
----
+﻿---
 title: "La Licencia Social ¿garantía de viabilidad de un proyecto minero?"
 date: 2018-11-13
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "La licencia social es la validación continúa de las comunidades locales y organizaciones respecto de la operación de un proyecto. Vale precisar, que a diferencia de los proyectos hidrocarburíferos ..."
 tags:
   - publicaciones

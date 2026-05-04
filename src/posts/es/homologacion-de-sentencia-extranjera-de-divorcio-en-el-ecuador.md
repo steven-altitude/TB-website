@@ -1,7 +1,7 @@
----
+﻿---
 title: "HOMOLOGACIÓN DE SENTENCIA EXTRANJERA DE DIVORCIO EN EL ECUADOR"
 date: 2020-08-24
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Dentro del mundo jurídico, no es nuevo el tema de la homologación de sentencias extranjeras en el Ecuador. Su trámite se encuentra contenido y regulado en el Código Orgánico General de Procesos, en..."
 tags:
   - publicaciones

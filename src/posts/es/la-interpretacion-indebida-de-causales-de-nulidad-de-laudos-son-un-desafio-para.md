@@ -1,7 +1,7 @@
----
+﻿---
 title: "La interpretación indebida de causales de nulidad de laudos son un desafío para el arbitraje ecuatoriano"
 date: 2025-04-28
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "En Ecuador, el arbitraje ha sido reconocido como una alternativa eficiente frente al sistema judicial ordinario. Su fortaleza se basa en la autonomía de las partes, la celeridad procesal y sobre to..."
 tags:
   - publicaciones

@@ -1,7 +1,7 @@
----
+﻿---
 title: "La CGE no aprobará informes si ha operado la caducidad de sus competencias"
 date: 2024-06-21
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El Acuerdo 010-CG-2024 emitido por la Contraloría General del Estado de Ecuador, establece normas y procedimientos específicos para la elaboración, trámite y aprobación de informes de auditoría gub..."
 tags:
   - publicaciones

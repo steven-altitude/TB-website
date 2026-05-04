@@ -1,7 +1,7 @@
----
+﻿---
 title: "Regulación del procedimiento de «visto bueno»"
 date: 2021-06-18
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El 19 de mayo de 2021, el Ministro de Trabajo expidió el Acuerdo Ministerial No. MDT-2021-189 que contiene la Normativa Técnica que regula el Procedimiento del Visto Bueno Interpuesto por los Traba..."
 tags:
   - publicaciones

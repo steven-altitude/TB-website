@@ -1,7 +1,7 @@
----
+﻿---
 title: "A propósito de la terminación por mutuo acuerdo en la contratación pública ecuatoriana"
 date: 2023-09-27
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El Art. 93 de la Ley Orgánica del Sistema Nacional de Contratación Pública señala sobre la terminación por mutuo acuerdo que: “Cuando por circunstancias imprevistas, técnicas o económicas, o causas..."
 tags:
   - publicaciones

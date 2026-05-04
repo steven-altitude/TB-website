@@ -1,7 +1,7 @@
----
+﻿---
 title: "WORLEYPARSONS Vs. ECUADOR: un precedente para los arbitrajes de inversión"
 date: 2024-04-02
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "En el año 2019, la empresa estadounidense Worley International Services Inc. (en adelante “Worley”) inició un proceso arbitral en contra de la República del Ecuador al amparo del Tratado Bilateral ..."
 tags:
   - publicaciones

@@ -1,7 +1,7 @@
----
+﻿---
 title: "REGLAMENTO PARA LA CALIFICACIÓN DE COMPAÑIAS ESPECIALIZADAS EN VALORACIÓN DE ACTIVOS INTANGIBLES"
 date: 2021-03-02
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Según el Manual de Valoración de Activos Intangibles de Propiedad Intelectual, las empresas son un portafolio de activos, clasificados de la siguiente manera:  ACTIVOS MONETARIOS: Representan los a..."
 tags:
   - publicaciones

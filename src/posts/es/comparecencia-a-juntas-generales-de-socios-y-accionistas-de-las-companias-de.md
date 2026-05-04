@@ -1,7 +1,7 @@
----
+﻿---
 title: "Comparecencia a Juntas Generales de Socios y Accionistas de las Compañías de Responsabilidad Limitada, Anónimas, en Comandita por Acciones y de Economía Mixta"
 date: 2018-12-13
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "En el mundo empresarial, antes de tomar cualquier decisión o dar cumplimiento a sus obligaciones estatutarias, deben celebrarse juntas generales o universales de socios o accionistas, previa convoc..."
 tags:
   - publicaciones

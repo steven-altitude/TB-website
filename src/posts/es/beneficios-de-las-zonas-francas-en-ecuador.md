@@ -1,7 +1,7 @@
----
+﻿---
 title: "Beneficios de las zonas francas en Ecuador"
 date: 2023-09-01
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Mediante el decreto-ley económico urgente expedido el 23 de mayo de 2023 se pretende atraer y fomentar inversiones  en múltiples sectores, crear empleos y promover mercados libres y eficientes. De ..."
 tags:
   - publicaciones

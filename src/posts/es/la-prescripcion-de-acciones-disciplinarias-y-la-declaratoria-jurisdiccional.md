@@ -1,7 +1,7 @@
----
+﻿---
 title: "La prescripción de acciones disciplinarias y la declaratoria jurisdiccional previa"
 date: 2021-11-18
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El Código Orgánico de la Función Judicial (COFJ) en su Art. 104 determina la responsabilidad administrativa que poseen las servidoras y servidores de la Función judicial por el cometimiento de infr..."
 tags:
   - publicaciones

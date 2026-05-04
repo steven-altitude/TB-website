@@ -1,7 +1,7 @@
----
+﻿---
 title: "EXCEPCIONES AL TELETRABAJO POR MOTIVOS DE SALUD"
 date: 2020-04-07
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Dada la emergencia sanitaria en la que se encuentra el mundo, la mayoría de gobiernos decidieron disponer que las empresas públicas y privadas, se acojan al teletrabajo para sus trabajadores. En es..."
 tags:
   - publicaciones

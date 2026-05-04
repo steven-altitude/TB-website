@@ -1,7 +1,7 @@
----
+﻿---
 title: "Ecuador: Los contratos públicos de emergencia durante la emergencia sanitaria"
 date: 2020-05-12
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Existen procedimientos especiales que fueron paralizados debido a la fuerza mayor indicada en el Decreto Ejecutivo 1017. Dichos procedimientos de contratación en situación de emergencia son generad..."
 tags:
   - publicaciones

@@ -1,7 +1,7 @@
----
+﻿---
 title: "¿Qué pasó con el dinero electrónico en Ecuador?"
 date: 2020-07-28
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El dinero electrónico en Ecuador fue una propuesta que se elaboró en el 2008 en el Ministerio Coordinador de Política Económica pero empezó a ser implementada paulatinamente desde 2013. Sin embargo..."
 tags:
   - publicaciones

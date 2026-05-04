@@ -1,7 +1,7 @@
----
+﻿---
 title: "Acerca de las contribuciones económicas en el sector de las telecomunicaciones"
 date: 2020-07-27
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Actualmente existe una gran expectativa dentro del ámbito de las telecomunicaciones en cuanto a la instalación de un nuevo cable submarino que aterrizará en las islas Galápagos. Pese a que se desco..."
 tags:
   - publicaciones

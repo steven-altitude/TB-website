@@ -1,7 +1,7 @@
----
+﻿---
 title: "¿Mayor seguridad jurídica al inversionista a partir de la expedición del Instructivo del procedimiento de revisión y aprobación de solicitud de contrato de inversión?"
 date: 2020-07-03
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "A inicios del 2018, se creó el Comité Estratégico de Promoción y Atracción de Inversiones (CEPAI) con la finalidad de promover, atraer, facilitar y mantener la Inversión Extranjera Directa (IED) en..."
 tags:
   - publicaciones

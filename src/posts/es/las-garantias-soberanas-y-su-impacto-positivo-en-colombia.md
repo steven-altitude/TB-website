@@ -1,7 +1,7 @@
----
+﻿---
 title: "Las «garantías soberanas» y su impacto positivo en Colombia"
 date: 2019-03-21
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El sistema jurídico colombiano consagra en su ordenamiento el establecimiento de garantías soberanas. La garantía soberana desde un concepto más amplio, no es otra cosa que: “la que debe ofrecer el..."
 tags:
   - publicaciones

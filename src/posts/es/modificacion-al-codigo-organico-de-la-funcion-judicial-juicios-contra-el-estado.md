@@ -1,7 +1,7 @@
----
+﻿---
 title: "Modificación al Código Orgánico de la Función Judicial: Juicios contra el Estado"
 date: 2020-12-15
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Estado El pasado 8 de diciembre de 2020, se publicó en el Registro Oficinal No. 345 – Suplemento, la Ley Orgánica Reformatoria del Código Orgánico de la Función Judicial, misma que contiene una ser..."
 tags:
   - publicaciones

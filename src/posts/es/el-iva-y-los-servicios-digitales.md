@@ -1,7 +1,7 @@
----
+﻿---
 title: "El IVA y los servicios digitales"
 date: 2020-09-11
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Al cumplirse los ciento ochenta (180) días de transición establecidos por la Ley Orgánica de Simplificación Tributaria para aplicar los temas relativos al IVA sobre los servicios digitales, así com..."
 tags:
   - publicaciones

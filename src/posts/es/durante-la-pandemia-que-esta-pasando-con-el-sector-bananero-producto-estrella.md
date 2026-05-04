@@ -1,7 +1,7 @@
----
+﻿---
 title: "¿Durante la pandemia, que está pasando con el sector bananero, producto estrella de exportación para el Ecuador?"
 date: 2020-06-04
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Análisis de las exportaciones del sector bananero ecuatoriano Al analizar el desempeño de las exportaciones en Ecuador, existen efectos negativos en gran mayoría de los sectores. Algunos productos ..."
 tags:
   - publicaciones

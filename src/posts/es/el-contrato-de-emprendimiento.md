@@ -1,7 +1,7 @@
----
+﻿---
 title: "El contrato de emprendimiento"
 date: 2020-12-14
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Una de las últimas normas que se expidieron previo a la pandemia fue la Ley Orgánica de Emprendimiento e Innovación, misma que fue publicada el 28 de febrero del presente año. Con este cuerpo legal..."
 tags:
   - publicaciones

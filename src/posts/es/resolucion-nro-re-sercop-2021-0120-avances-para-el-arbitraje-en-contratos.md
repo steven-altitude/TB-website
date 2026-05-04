@@ -1,7 +1,7 @@
----
+﻿---
 title: "Resolución Nro. RE-SERCOP-2021-0120, avances para el arbitraje en contratos públicos"
 date: 2021-12-02
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El 24 de noviembre del presente año, el SERCOP emitió la Resolución Nro. RE-SERCOP-2021-0120 en la que reformó los modelos de pliegos Versión 2.1 de 9 de junio de 2017 y los modelos de pliegos de l..."
 tags:
   - publicaciones

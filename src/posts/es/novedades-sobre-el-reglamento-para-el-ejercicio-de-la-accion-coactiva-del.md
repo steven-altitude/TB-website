@@ -1,7 +1,7 @@
----
+﻿---
 title: "Novedades sobre el Reglamento para el ejercicio de la acción coactiva del Servicio Nacional de Aduana del Ecuador"
 date: 2021-03-09
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El pasado 02 de marzo del 2021, mediante Resolución del SENAE 9, publicada en el Registro Oficial Suplemento 401, la Directora General del Servicio Nacional de Aduana del Ecuador, expidió el “Regla..."
 tags:
   - publicaciones

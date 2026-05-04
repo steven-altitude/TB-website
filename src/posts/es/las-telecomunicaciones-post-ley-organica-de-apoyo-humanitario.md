@@ -1,7 +1,7 @@
----
+﻿---
 title: "LAS TELECOMUNICACIONES POST LEY ORGÁNICA DE APOYO HUMANITARIO"
 date: 2020-05-25
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "*En referencia al texto del Proyecto De Ley Orgánica De Apoyo Humanitario Para Combatir La Crisis Sanitaria Derivada Del Covid 19 remitido al Ejecutivo Con la Constitución del 2008 las telecomunica..."
 tags:
   - publicaciones

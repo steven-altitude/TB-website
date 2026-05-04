@@ -1,7 +1,7 @@
----
+﻿---
 title: "La propuesta de la Disposición Interpretativa del Artículo 169 numeral 6 del Código de Trabajo"
 date: 2020-05-21
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "En el texto que fue aprobado por la Asamblea Nacional del “PROYECTO DE LEY ORGÁNICA DE APOYO HUMANITARIO PARA COMBATIR LA CRISIS SANITARIA DERIVADA DEL COVID 19”, ya enviado al Ejecutivo, se puede ..."
 tags:
   - publicaciones

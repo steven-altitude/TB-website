@@ -1,7 +1,7 @@
----
+﻿---
 title: "REFORMA AL REGLAMENTO GENERAL A LA LEY ORGÁNICA DE TELECOMUNICACIONES"
 date: 2021-11-11
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Mediante la presente reforma se incorporan algunas definiciones técnicas como: ingresos totales facturados y percibidos, competencia efectiva, derechos de otorgamiento de títulos para la prestación..."
 tags:
   - publicaciones

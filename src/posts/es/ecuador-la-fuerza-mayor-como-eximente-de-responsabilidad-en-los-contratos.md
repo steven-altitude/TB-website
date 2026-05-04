@@ -1,7 +1,7 @@
----
+﻿---
 title: "Ecuador: “La fuerza mayor como eximente de responsabilidad en los contratos privados”"
 date: 2020-05-05
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El Código Civil contempla las figuras de fuerza mayor y caso fortuito dentro del mismo ámbito y los identifica como dos instituciones jurídicas que exoneran la responsabilidad. Dentro del Artículo ..."
 tags:
   - publicaciones

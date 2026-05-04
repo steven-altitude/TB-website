@@ -1,7 +1,7 @@
----
+﻿---
 title: "Expedición del Acuerdo Reglamentario de Gestión de los Conocimientos"
 date: 2020-12-18
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Cuando queremos iniciar algún nuevo proyecto, negocio o una empresa, la primera pregunta que salta a nuestra mente es, ¿cómo identifico a este nuevo producto?,  esto quiere decir que necesito disti..."
 tags:
   - publicaciones

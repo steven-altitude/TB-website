@@ -1,7 +1,7 @@
----
+﻿---
 title: "Reformas en el sector minero ecuatoriano derivado de la aprobación de la Ley Orgánica de Eficiencia Económica y Generación de Empleo"
 date: 2024-01-15
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El 19 de diciembre de 2023, se publicó en el Registro Oficial Suplemento 461, la Ley Orgánica de Eficiencia Económica y Generación de Empleo. El propósito principal de la Ley es impulsar la eficien..."
 tags:
   - publicaciones

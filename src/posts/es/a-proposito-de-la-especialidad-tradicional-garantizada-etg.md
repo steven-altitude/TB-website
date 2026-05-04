@@ -1,7 +1,7 @@
----
+﻿---
 title: "A propósito de la «Especialidad Tradicional Garantizada» (ETG)"
 date: 2021-02-26
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El 18 de febrero de 2021, el SENADI concedió la primera certificación de una ETG en el Ecuador a favor del producto “BIZCOCHO DE CAYAMBE”. Así surge la primera pregunta que nace de esta noticia es ..."
 tags:
   - publicaciones

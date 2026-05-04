@@ -1,7 +1,7 @@
----
+﻿---
 title: "¿Un Estado puede ser responsable objetivo ante la inacción de medidas por el COVID-19 en su territorio?"
 date: 2020-04-22
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Sin duda la pandemia causada por el COVID-19 ha puesto a pensar a los juristas en diversos escenarios jurídicos y formar sus criterios respecto a posibilidades de tesis jurídicas. Este tema no esca..."
 tags:
   - publicaciones

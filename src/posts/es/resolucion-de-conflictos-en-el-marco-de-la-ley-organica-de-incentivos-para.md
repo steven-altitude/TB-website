@@ -1,7 +1,7 @@
----
+﻿---
 title: "Resolución de conflictos en el marco de la Ley Orgánica de Incentivos para Asociaciones Público Privadas y su Reglamento"
 date: 2020-11-19
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Hace pocos días, el ejecutivo acaba de aprobar un nuevo Reglamento a la Ley Orgánica de Incentivos para Asociaciones Público Privadas, mismo que deberá ser publicado en el Registro Oficial para ent..."
 tags:
   - publicaciones

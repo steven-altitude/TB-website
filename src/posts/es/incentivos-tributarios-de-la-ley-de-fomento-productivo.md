@@ -1,7 +1,7 @@
----
+﻿---
 title: "Incentivos Tributarios de la Ley de Fomento Productivo"
 date: 2020-01-15
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El 21 de agosto de 2018, mediante el suplemento del Registro Oficial No. 301, se publicó la Ley de Fomento Productivo, Atracción, Inversiones y Generación de Empleo. La finalidad de esta ley fue di..."
 tags:
   - publicaciones

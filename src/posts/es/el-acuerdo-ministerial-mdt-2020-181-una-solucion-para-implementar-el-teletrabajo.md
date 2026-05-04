@@ -1,7 +1,7 @@
----
+﻿---
 title: "El Acuerdo Ministerial MDT- 2020-181 ¿una solución para implementar el teletrabajo?"
 date: 2020-09-21
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Este día lunes 14 de septiembre el Ministerio del Trabajo expidió en Acuerdo Ministerial MDT-2020-181 con el cual expidió “Las Directrices Para La Aplicación Del Teletrabajo En El Código Del Trabaj..."
 tags:
   - publicaciones

@@ -1,7 +1,7 @@
----
+﻿---
 title: "Informativo Jurídico – Marzo 2019"
 date: 2019-03-27
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "La Superintendencia de Compañías, Valores y Seguros, expidió recientemente un nuevo reglamento para la imposición y gradación de las sanciones, a través del procedimiento administrativo sancionador..."
 tags:
   - publicaciones

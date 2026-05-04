@@ -1,7 +1,7 @@
----
+﻿---
 title: "Las APP, una alternativa para la administración de recursos públicos post COVID-19"
 date: 2020-07-22
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Sin duda alguna ya no son épocas para cuestionar la existencia o no del Estado como agente económico. Los intentos liberales de eliminar de raíz la participación estatal como actor y factor de las ..."
 tags:
   - publicaciones

@@ -1,7 +1,7 @@
----
+﻿---
 title: "El Reglamento para las Asociaciones Público Privadas, un instrumento perfectible"
 date: 2020-12-09
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Como es de conocimiento, el 17 de noviembre del presente año el Presidente de la República expidió el Decreto 1190 del Reglamento para Asociaciones Públicos Privadas. Sin embargo, este Reglamento n..."
 tags:
   - publicaciones

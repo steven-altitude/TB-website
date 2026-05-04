@@ -1,7 +1,7 @@
----
+﻿---
 title: "Directrices de Aplicación de la Ley de Apoyo Humanitario en el sector laboral"
 date: 2020-12-22
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El pasado 22 de junio del 2020, se publicó la Ley Orgánica de Apoyo Humanitario, con el objeto de establecer medidas de apoyo, necesarias para enfrentar las consecuencias derivadas de la crisis san..."
 tags:
   - publicaciones

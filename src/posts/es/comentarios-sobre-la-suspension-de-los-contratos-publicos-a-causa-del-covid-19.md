@@ -1,7 +1,7 @@
----
+﻿---
 title: "Comentarios sobre la suspensión de los contratos públicos a causa del Covid-19"
 date: 2020-04-29
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Desde el mes de marzo, el gobierno nacional se vio en la necesidad de declarar el estado de emergencia en todo el territorio nacional, con la finalidad de evitar la propagación del virus covid-19, ..."
 tags:
   - publicaciones

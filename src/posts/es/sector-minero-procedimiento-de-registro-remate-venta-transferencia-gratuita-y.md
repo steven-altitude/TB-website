@@ -1,7 +1,7 @@
----
+﻿---
 title: "Sector Minero: Procedimiento de Registro, Remate, Venta, Transferencia Gratuita y Chatarrización de bienes o materiales decomisados por la ARCOM"
 date: 2019-10-21
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "En septiembre, la Agencia de Regulación y Control Minero -ARCOM-, expidió el “Reglamento para el Registro, Remate, Venta, Transferencia Gratuita, o Chatarrización de los Bienes y Destino del Materi..."
 tags:
   - publicaciones

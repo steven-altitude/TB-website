@@ -1,7 +1,7 @@
----
+﻿---
 title: "Comentarios sobre la disputa: APPLE vs. QUALCOMM"
 date: 2018-12-14
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Actualmente, Apple y la compañía Qualcomm (líder en el mercado de procesadores para teléfonos celulares) están siendo partícipes de una contienda judicial, que se ha extendido desde los Estados Uni..."
 tags:
   - publicaciones

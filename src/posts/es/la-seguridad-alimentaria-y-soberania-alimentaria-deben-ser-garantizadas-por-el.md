@@ -1,7 +1,7 @@
----
+﻿---
 title: "¿La seguridad alimentaria y soberanía alimentaria deben ser garantizadas por el Estado?"
 date: 2020-05-28
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "La crisis nacional y mundial causada por el Covid-19 se siente en todas las economías del mundo. El estado de emergencia, el cierre de fronteras, la disminución de la actividad económica por la sus..."
 tags:
   - publicaciones

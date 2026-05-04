@@ -1,7 +1,7 @@
----
+﻿---
 title: "Beneficiarios para la exoneración del impuesto a la renta"
 date: 2021-02-04
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "En el Ecuador, se considera renta a todos los ingresos de fuente ecuatoriana obtenidos a título gratuito o a título oneroso provenientes del trabajo, del capital o de ambas fuentes, consistentes en..."
 tags:
   - publicaciones

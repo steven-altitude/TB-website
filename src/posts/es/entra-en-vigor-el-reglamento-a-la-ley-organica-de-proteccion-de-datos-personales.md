@@ -1,7 +1,7 @@
----
+﻿---
 title: "Entra en vigor el Reglamento a la Ley Orgánica de Protección de Datos Personales"
 date: 2023-11-17
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El 6 de noviembre de 2023 mediante Decreto Ejecutivo No. 904 expedido por el Presidente de la República, se emitió el Reglamento de la referencia. Las disposiciones más importantes se resumen a con..."
 tags:
   - publicaciones

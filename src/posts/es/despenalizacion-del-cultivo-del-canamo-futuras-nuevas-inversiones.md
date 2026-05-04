@@ -1,7 +1,7 @@
----
+﻿---
 title: "Despenalización del Cultivo del Cáñamo ¿futuras nuevas inversiones?"
 date: 2020-07-07
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Una industria que se encuentra en crecimiento desmedido a nivel global es el cannabis, misma que hace no mucho tiempo involucraba ocultarse en lugares extraños y participaban en ella, gente de dudo..."
 tags:
   - publicaciones

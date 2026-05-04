@@ -1,7 +1,7 @@
----
+﻿---
 title: "REPERCUSIONES PARA LAS COMPAÑÍAS QUE MANEJAN DATOS  DE ÍNDOLE PERSONAL POR INOBSERVANCIA A LA LEY ORGÁNICA DE PROTECCIÓN DE DATOS PERSONALES"
 date: 2023-08-24
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Desde el año 2021, Ecuador cuenta con una Ley Orgánica de Protección de Datos Personales cuyo objeto es garantizar el derecho a la protección de datos personales, que incluye el acceso y decisión s..."
 tags:
   - publicaciones

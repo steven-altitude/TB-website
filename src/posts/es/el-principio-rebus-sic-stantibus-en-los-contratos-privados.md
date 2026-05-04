@@ -1,7 +1,7 @@
----
+﻿---
 title: "EL PRINCIPIO REBUS SIC STANTIBUS EN LOS CONTRATOS PRIVADOS"
 date: 2020-05-06
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Debido al estado de excepción decretado por el gobierno nacional el 14 de marzo de 2020, en razón de la emergencia sanitaria por el Covid-19, se procedió a restringir la movilidad a nivel nacional,..."
 tags:
   - publicaciones

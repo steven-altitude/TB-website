@@ -1,7 +1,7 @@
----
+﻿---
 title: "Sobre la presentación y aprobación de proyectos para Asociación Público – Privada (APP) en Ecuador"
 date: 2019-09-23
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "En el año 2015, se aprobó la Ley Orgánica de Incentivos para Asociaciones Público-Privadas y la inversión Extranjera (en adelante Ley APP), mediante la cual, se buscaba crear incentivos para la exi..."
 tags:
   - publicaciones

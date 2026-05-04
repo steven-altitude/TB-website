@@ -1,7 +1,7 @@
----
+﻿---
 title: "Aspectos sociales a considerar para el otorgamiento de licencias ambientales de proyectos en Ecuador"
 date: 2019-04-02
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Un aspecto contundente y necesario para dar inicio a las actividades intrínsecas en un proyecto extractivo, es la licencia ambiental, misma que otorga la autoridad competente a una persona natural ..."
 tags:
   - publicaciones

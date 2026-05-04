@@ -1,7 +1,7 @@
----
+﻿---
 title: "Los Delitos Cibernéticos en tiempos de COVID"
 date: 2020-07-14
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Los Delitos Informáticos son parte del  acelerado cambio que sufren las Tecnologías de Información y Comunicación «TIC» al permitir que el ser humano desarrolle métodos y prácticas maliciosas donde..."
 tags:
   - publicaciones

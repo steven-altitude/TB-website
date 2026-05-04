@@ -1,7 +1,7 @@
----
+﻿---
 title: "EL ALCANCE DEL OBJETO CONTRACTUAL DE UNA APP O PPP"
 date: 2020-08-06
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Como se ha indicado en artículos anteriores, desde la perspectiva ecuatoriana la APP por sí sola no constituye en un contrato sino un modelo de gestión de competencia pública. El contrato identific..."
 tags:
   - publicaciones

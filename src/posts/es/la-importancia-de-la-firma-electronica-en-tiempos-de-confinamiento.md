@@ -1,7 +1,7 @@
----
+﻿---
 title: "La importancia de la firma electrónica en tiempos de confinamiento"
 date: 2020-07-23
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El Covid-19 ha orillado a la población mundial al uso de la tecnología en todos los aspectos cotidianos. No solo constituye una herramienta útil y efectiva, sino que tiene un rol protagónico en el ..."
 tags:
   - publicaciones

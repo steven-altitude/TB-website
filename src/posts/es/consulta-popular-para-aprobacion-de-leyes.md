@@ -1,7 +1,7 @@
----
+﻿---
 title: "CONSULTA POPULAR PARA APROBACIÓN DE LEYES"
 date: 2021-10-20
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Durante las últimas semanas, se ha venido escuchando sobre la posibilidad de una consulta popular a fin de que los ecuatorianos seamos consultados sobre diferentes aspectos propuestos por el gobier..."
 tags:
   - publicaciones

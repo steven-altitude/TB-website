@@ -1,7 +1,7 @@
----
+﻿---
 title: "Recursos Naturales renovables, no renovables,  y las reformas a la Ley de Minería"
 date: 2020-08-03
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Los Recursos Naturales, son los bienes que proporciona la naturaleza y que sirven al ser humano para cubrir sus necesidades. Son un conjunto de materia prima y energía, que pueden ser utilizados y ..."
 tags:
   - publicaciones

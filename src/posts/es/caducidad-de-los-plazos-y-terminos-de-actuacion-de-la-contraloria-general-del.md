@@ -1,7 +1,7 @@
----
+﻿---
 title: "Caducidad de los plazos y términos de actuación de la Contraloría General del Estado"
 date: 2021-07-21
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Según el Art. 26 de la Ley Orgánica de la Contraloría General del Estado, esta tiene un término fatal de ciento ochenta (180) días improrrogables para aprobar un Informe de Auditoría (examen especi..."
 tags:
   - publicaciones

@@ -1,7 +1,7 @@
----
+﻿---
 title: "Una nueva reforma a la Ley de Seguridad Social"
 date: 2020-07-16
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El contexto actual nos ha puesto a pensar a todos (me incluyo) en que si el Instituto Ecuatoriano de Seguridad Social está realmente cumpliendo su rol o si su desinstitucionalización ha llegado a t..."
 tags:
   - publicaciones

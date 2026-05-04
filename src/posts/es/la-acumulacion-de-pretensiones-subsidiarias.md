@@ -1,7 +1,7 @@
----
+﻿---
 title: "La acumulación de pretensiones subsidiarias"
 date: 2021-02-22
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Los principios generales del proceso rigen a todo tipo de norma adjetiva, tratándose de materia contenciosa administrativa o tributaria, civil, familia o cualquier otra. Dentro entre todos los prin..."
 tags:
   - publicaciones

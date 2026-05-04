@@ -1,7 +1,7 @@
----
+﻿---
 title: "Aprobación de un nuevo reglamento para la impugnación de resoluciones de la Superintendencia de Compañías, Valores y Seguros"
 date: 2019-05-09
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "En Abril, la Superintendencia de Compañías, Valores y Seguros, expidió un nuevo  Reglamento para la Impugnación de Resoluciones de la Superintendencia, el cual tiene como fin, armonizar sus proceso..."
 tags:
   - publicaciones

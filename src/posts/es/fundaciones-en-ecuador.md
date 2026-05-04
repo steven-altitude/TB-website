@@ -1,4 +1,4 @@
----
+﻿---
 title: "«Fundaciones» en Ecuador: procedimiento, normativa y control institucional"
 date: 2026-03-06
 author: "Angélica Campoverde Ortíz, Asociada Senior y Directora de Consultoría Internacional"
@@ -36,4 +36,4 @@ La constitución de una fundación exige el cumplimiento riguroso de la normativ
 
 *La información aquí publicada no supone ningún consejo o asesoría legal particular, siendo su función meramente informativa.*
 
-*Tesserae Bureau de Abogados cuenta con la experiencia en creación de fundaciones.*
+*Tesserae Buró de Abogados de Abogados cuenta con la experiencia en creación de fundaciones.*

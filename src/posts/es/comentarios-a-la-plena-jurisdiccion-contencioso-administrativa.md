@@ -1,7 +1,7 @@
----
+﻿---
 title: "Comentarios a la plena jurisdicción contencioso-administrativa"
 date: 2021-03-29
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "La razón de ser de los jueces dentro de un Estado se da para restablecer la paz social. Sin embargo, en materia contencioso-administrativa la relevancia de la función judicial es necesaria para de ..."
 tags:
   - publicaciones

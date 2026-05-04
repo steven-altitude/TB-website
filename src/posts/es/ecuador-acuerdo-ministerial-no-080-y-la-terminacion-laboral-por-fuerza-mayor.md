@@ -1,7 +1,7 @@
----
+﻿---
 title: "Ecuador: Acuerdo Ministerial No. 080 y la terminación laboral por fuerza mayor"
 date: 2020-03-31
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El pasado 28 de marzo, el abogado Luis Arturo Poveda, Ministro del Trabajo, emitió el Acuerdo Ministerial No. MDT-2020-80, el cual reforma el No. MDT-2020-077, mediante el cual se expidieron las di..."
 tags:
   - publicaciones

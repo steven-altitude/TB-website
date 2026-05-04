@@ -1,7 +1,7 @@
----
+﻿---
 title: "¿Cómo reaccionar durante la emergencia en la Contratación Pública?"
 date: 2020-04-14
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "A propósito de la pandemia y ante las medidas de restricción de movilidad impuestas por el Gobierno de Ecuador, ciertas entidades públicas han dispuesto la suspensión de los contratos a través de n..."
 tags:
   - publicaciones

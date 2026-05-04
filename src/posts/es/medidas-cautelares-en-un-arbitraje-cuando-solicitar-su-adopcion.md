@@ -1,7 +1,7 @@
----
+﻿---
 title: "Medidas cautelares en un arbitraje ¿cuándo solicitar su adopción?"
 date: 2021-04-20
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Las medidas cautelares comprenden aquellas decisiones o disposiciones adoptadas por la autoridad para prevenir las contingencias que puedan sobrevenir, antes o durante el desarrollo del proceso, so..."
 tags:
   - publicaciones

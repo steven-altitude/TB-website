@@ -1,7 +1,7 @@
----
+﻿---
 title: "Sector Minero: GUÍAS TÉCNICAS DE LA AGENCIA DE REGULACIÓN Y CONTROL MINERO ARCOM"
 date: 2020-01-14
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Una de las reformas más relevantes, es la regulación generada por la Agencia de Regulación y Control Minero -ARCOM-, respecto de las “GUIAS TECNICAS DE LA AGENCIA DE REGULACION Y CONTROL MINERO ARC..."
 tags:
   - publicaciones

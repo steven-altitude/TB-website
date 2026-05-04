@@ -1,7 +1,7 @@
----
+﻿---
 title: "El límite que impuso la Corte Constitucional al Consejo de la Judicatura"
 date: 2020-10-14
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "La Corte Constitucional a través de la sentencia No. 3-19-CN/20, condicionó la constitucionalidad del numeral 7 del Artículo 109 del Código Orgánico de la Función Judicial, para que, previo al even..."
 tags:
   - publicaciones

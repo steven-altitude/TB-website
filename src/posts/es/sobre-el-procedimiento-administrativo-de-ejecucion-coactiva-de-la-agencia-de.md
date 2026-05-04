@@ -1,7 +1,7 @@
----
+﻿---
 title: "Sobre el procedimiento administrativo de ejecución coactiva de la Agencia de Regulación y Control Minero ARCOM"
 date: 2019-04-05
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "La Agencia de Regulación y Control Minero, mediante Registro Oficial No. 754 de 06 de febrero de 2019, expidió el Reglamento de Aplicación al Procedimiento Administrativo de Ejecución Coactiva, que..."
 tags:
   - publicaciones

@@ -1,7 +1,7 @@
----
+﻿---
 title: "La importancia de los Gobiernos Autónomos Descentralizados en el manejo de la crisis sanitaria"
 date: 2020-07-14
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Desde la Constitución se ha instaurado el principio de autonomía subsidiaria para el manejo de riesgos. La Corte Constitucional, en reiteradas sentencias, ha definido este principio como aquel que ..."
 tags:
   - publicaciones

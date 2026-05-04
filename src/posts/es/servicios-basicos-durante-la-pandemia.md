@@ -1,7 +1,7 @@
----
+﻿---
 title: "Servicios Básicos Durante la Pandemia"
 date: 2020-06-22
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "A causa de la aparición del COVID-19, a principios de diciembre de 2019, en la provincia de Wuhan, en China, los gobiernos de América Latina desarrollaron distintas medidas de apoyo, a fin de asegu..."
 tags:
   - publicaciones

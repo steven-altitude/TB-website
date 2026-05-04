@@ -1,7 +1,7 @@
----
+﻿---
 title: "ÚLTIMAS REFORMAS A LA LEY DE COMPAÑÍAS"
 date: 2020-01-23
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Recientemente, se publicaron las últimas reformas a la Ley de Compañías, las cuales están encaminadas principalmente a regular de mejor manera la transformación, escisión, fusión y disolución de lo..."
 tags:
   - publicaciones

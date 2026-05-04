@@ -1,7 +1,7 @@
----
+﻿---
 title: "Prórroga del plazo para acogerse a los incentivos tributarios para nuevas inversiones productivas ¿Es la única manera de fomentar la inversión?"
 date: 2020-08-26
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Con las reformas tributarias que se han dado desde el año 2018 y sus últimas reformas en diciembre del 2019, se han abierto nuevas oportunidades e incentivos para las inversiones, teniendo como con..."
 tags:
   - publicaciones

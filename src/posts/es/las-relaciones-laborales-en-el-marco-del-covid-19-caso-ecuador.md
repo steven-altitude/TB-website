@@ -1,7 +1,7 @@
----
+﻿---
 title: "Las relaciones laborales en el marco del COVID-19: Caso Ecuador"
 date: 2020-03-19
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El COVID-19 ha modificado el orden mundial. Las bolsas de valores más grandes del mundo han cerrado con grandes pérdidas y el precio del crudo a nivel mundial se ha venido a pique. Esto y otros fac..."
 tags:
   - publicaciones

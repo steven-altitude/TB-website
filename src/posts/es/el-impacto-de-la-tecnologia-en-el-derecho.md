@@ -1,7 +1,7 @@
----
+﻿---
 title: "El impacto de la tecnología en el Derecho"
 date: 2018-11-13
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "La digitalización del mercado de bienes y servicios reinventó la experiencia de compra al implementar tiendas en línea que trabajan para el usuario, categorizando productos y seleccionando ofertas ..."
 tags:
   - publicaciones

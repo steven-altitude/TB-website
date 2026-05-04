@@ -1,7 +1,7 @@
----
+﻿---
 title: "La sostenibilidad de las empresas en el sector de telecomunicaciones y el rol de sus trabajadores durante el COVID-19"
 date: 2020-05-20
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "La última pandemia que sufrió la humanidad fue hace cien años. Muchas cosas han cambiado desde ese entonces hasta la fecha. Una de ellas es que ahora es posible un mayor confinamiento sin detener l..."
 tags:
   - publicaciones

@@ -1,7 +1,7 @@
----
+﻿---
 title: "La gestión delegada seccional a favor del inversionista privado es una oportunidad para el desarrollo local"
 date: 2020-01-27
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Con la Constitución del año 2008, Ecuador apostó por una gestión de servicios públicos descentralizados con la finalidad que la calidad de estos sea más cercana a los ciudadanos. Para ello, la Cart..."
 tags:
   - publicaciones

@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hacia una cultura del plazo razonable"
 date: 2020-10-26
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Frente a todas las dificultades que ha dejado la pandemia y los endebles sistemas de administración y provisión de servicios, se ha vuelto incuestionable que, tanto en sedes administrativas como en..."
 tags:
   - publicaciones

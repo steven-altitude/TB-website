@@ -1,7 +1,7 @@
----
+﻿---
 title: "¿Puede demandarse a un Estado signatario de la ONU, que infrinja normas de la Constitución de la Organización Mundial de la Salud (OMS)?"
 date: 2020-04-24
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Frente a eventos con efectos desestabilizadores para la economía, la opinión pública no tarda en actuar y busca responsables de manera rápida. Una posición lógica pero que a veces carece de la prof..."
 tags:
   - publicaciones

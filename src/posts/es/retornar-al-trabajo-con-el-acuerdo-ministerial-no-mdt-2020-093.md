@@ -1,7 +1,7 @@
----
+﻿---
 title: "Retornar al trabajo con el Acuerdo Ministerial No. MDT-2020-093"
 date: 2020-05-28
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Con la pandemia por Covid-19 uno de los sectores con mayor regulación emitida es el laboral. Junto a esto se pretende una reactivación económica con las mayores seguridades y protocolos posibles. P..."
 tags:
   - publicaciones

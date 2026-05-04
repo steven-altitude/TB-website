@@ -1,7 +1,7 @@
----
+﻿---
 title: "Ciberseguridad en Ecuador, un entorno de creciente riesgo digital"
 date: 2025-08-07
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "En los últimos años, Ecuador ha registrado un incremento sostenido de ciberataques, con un crecimiento del 4,9 % solo en 2024.[1] Esta tendencia ha colocado al país como uno de los más vulnerables ..."
 tags:
   - publicaciones

@@ -1,7 +1,7 @@
----
+﻿---
 title: "Liberalización controlada de combustible en Ecuador"
 date: 2020-05-22
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El Decreto Ejecutivo 1054 del 19 de mayo de 2020 reforma el Reglamento para la Regulación de los Precios de los Derivados de Hidrocarburos. Con este Decreto se liberalizan los precios de los combus..."
 tags:
   - publicaciones

@@ -1,7 +1,7 @@
----
+﻿---
 title: "Colombia: La fuerza mayor en los contratos"
 date: 2020-04-30
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "De conformidad con lo dispuesto en la legislación colombiana,  en el Artículo 62 del Código Civil, se llama fuerza mayor o caso fortuito el imprevisto a que no es posible resistir como un naufragio..."
 tags:
   - publicaciones

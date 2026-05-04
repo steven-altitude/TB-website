@@ -1,7 +1,7 @@
----
+﻿---
 title: "La valoración probatoria de los testimonios"
 date: 2024-10-02
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "La prueba testimonial es una de las formas probatorias más antiguas dentro del derecho procesal, y aunque ha sido objeto de innumerables críticas, su relevancia en los procesos judiciales e incluso..."
 tags:
   - publicaciones

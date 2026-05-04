@@ -1,7 +1,7 @@
----
+﻿---
 title: "La Acción de Acceso a la Información Pública, una garantía para promover la transparencia del sector público"
 date: 2023-12-05
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Antes de la Constitución Política de 1998 y específicamente del 22 de mayo de 2004, fecha en la que se expidió la “Ley Orgánica de Transparencia y Acceso a la Información Pública” (LOTAIP), el acce..."
 tags:
   - publicaciones

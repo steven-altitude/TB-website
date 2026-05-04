@@ -1,7 +1,7 @@
----
+﻿---
 title: "Medidas aun vigentes tras finalizar el Estado de Excepción en Ecuador"
 date: 2020-09-17
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El pasado 12 de septiembre a las 23H59, se puso fin al estado de excepción que fue decretado por parte del Ejecutivo el 16 de marzo del año en curso y que luego fue renovado por treinta (30) días m..."
 tags:
   - publicaciones

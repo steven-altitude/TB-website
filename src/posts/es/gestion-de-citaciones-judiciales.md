@@ -1,7 +1,7 @@
----
+﻿---
 title: "GESTIÓN DE CITACIONES JUDICIALES"
 date: 2020-08-29
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El pasado diez de junio del presente año, el Consejo de la Judicatura emitió la Resolución No. 61, misma que fue publicada en el Registro Oficial Edición Especial 750 el ocho de julio de 2020, medi..."
 tags:
   - publicaciones

@@ -1,7 +1,7 @@
----
+﻿---
 title: "La necesidad e importancia de la Due Diligence Legal"
 date: 2019-01-08
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "En países como Ecuador, el término “due diligence” talvez es desconocido debido a la nula práctica y realización de un proceso tan particular como éste. Dicho esto, pese a que en Colombia y España ..."
 tags:
   - publicaciones

@@ -1,7 +1,7 @@
----
+﻿---
 title: "«Panorama de las oportunidades de negocio para el inversionista extranjero»"
 date: 2018-11-13
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Las socias Sofía Zapata Gómez y Paola Bermudez Roldan nos compartieron su artículo en la Revista Views de la Cámara de Comercio Ecuatoriano Canadiense de Quito, titulado «Panorama de las oportunida..."
 tags:
   - publicaciones

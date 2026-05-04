@@ -1,7 +1,7 @@
----
+﻿---
 title: "Proyecto de ley a la actividad del lobbying"
 date: 2020-10-21
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "En nuestro medio, la actividad del cabildeo o lobbying la mayoría de veces se la relaciona con el cometimiento de actos de corrupción e incluye el cometimiento de delitos. Una de las principales di..."
 tags:
   - publicaciones

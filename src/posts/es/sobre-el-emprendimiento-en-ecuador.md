@@ -1,7 +1,7 @@
----
+﻿---
 title: "Sobre el emprendimiento en Ecuador"
 date: 2021-01-06
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Un emprendimiento, es un proyecto con antigüedad menor a cinco años que requiere recursos para cubrir una necesidad o aprovechar una oportunidad, que necesita ser organizado y desarrollado, en el c..."
 tags:
   - publicaciones

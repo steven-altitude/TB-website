@@ -1,7 +1,7 @@
----
+﻿---
 title: "Asignación de recursos mediante enmienda constitucional"
 date: 2021-01-29
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Con motivo de las elecciones de febrero próximo y ante la deuda en asignación de recursos que el gobierno central mantiene con los gobiernos autónomos descentralizados (en adelante GAD), cabe repla..."
 tags:
   - publicaciones

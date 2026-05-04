@@ -1,7 +1,7 @@
 {
   "name": "tesserae-bureau",
   "version": "1.0.0",
-  "description": "Tesserae Bureau – Boutique Law Firm",
+  "description": "TBA Legal (Tesserae Buró de Abogados) – Boutique Law Firm",
   "scripts": {
     "start": "npx @11ty/eleventy --serve",
     "build": "npx @11ty/eleventy"

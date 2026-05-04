@@ -1,7 +1,7 @@
----
+﻿---
 title: "“El impacto del COVID-19 en el arbitraje”"
 date: 2020-05-29
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El arbitraje internacional es conocido por ser una vía alternativa de resolución de conflictos que permite la utilización de todo tipo de medios telemáticos y tecnológicos para seguir adelante con ..."
 tags:
   - publicaciones

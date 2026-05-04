@@ -1,7 +1,7 @@
----
+﻿---
 title: "El convenio arbitral alcanza a los actos administrativos dictados en el margen de la relación contractual"
 date: 2025-03-08
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "La sola existencia de un pacto arbitral dentro de un contrato, permite que mediante el arbitraje se pronuncie un tribunal arbitral o un árbitro, cual sea fuere el caso, sobre todas las disputas rel..."
 tags:
   - publicaciones

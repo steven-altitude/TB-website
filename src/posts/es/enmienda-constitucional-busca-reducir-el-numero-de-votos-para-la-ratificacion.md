@@ -1,7 +1,7 @@
----
+﻿---
 title: "Enmienda constitucional busca reducir el número de votos para la ratificación del veto parcial del Ejecutivo"
 date: 2020-12-11
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "En el mes de junio por parte de la Asamblea Nacional se planteó la posibilidad de realizar una enmienda constitucional, con el fin de que el Poder Legislativo pueda ratificarse con 70 votos (mayorí..."
 tags:
   - publicaciones

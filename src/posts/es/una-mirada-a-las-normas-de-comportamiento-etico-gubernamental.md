@@ -1,7 +1,7 @@
----
+﻿---
 title: "Una mirada a las normas de comportamiento ético gubernamental"
 date: 2021-08-02
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Mediante el Decreto Ejecutivo 4 de 24 de mayo de 2021, se establecen las Normas de comportamiento ético gubernamental a las que se someterán los servidores públicos de la Función Ejecutiva en el cu..."
 tags:
   - publicaciones

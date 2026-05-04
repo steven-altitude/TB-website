@@ -1,7 +1,7 @@
----
+﻿---
 title: "Salvoconductos y sus alcances: Caso Ecuador"
 date: 2020-03-21
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Según el documento del Comité de Operaciones de Emergencias (COE), se estableció la restricción de circulación de personas, este dispone que desde el 17 de marzo de 2020 sólo está permitido salir d..."
 tags:
   - publicaciones

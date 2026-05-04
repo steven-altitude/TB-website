@@ -1,7 +1,7 @@
----
+﻿---
 title: "Ley de Racionalización, Reutilización y Reducción de Plásticos Solo Uso"
 date: 2021-01-12
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Con la necesidad de reducir los precios de materia prima y hacer la vida del ser humano un poco más sencilla, el plástico ha facilitado la vida de las personas y de los comerciantes desde hace much..."
 tags:
   - publicaciones

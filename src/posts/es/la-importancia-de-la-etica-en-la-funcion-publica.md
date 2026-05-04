@@ -1,7 +1,7 @@
----
+﻿---
 title: "La importancia de la ética en la Función Pública"
 date: 2021-01-27
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Desde la antigua Grecia, ante la pregunta filosófica: ¿Qué es mejor, el gobierno de los hombres o el de las leyes? La respuesta: cuando las leyes son buenas benefician a la comunidad, siempre y cua..."
 tags:
   - publicaciones

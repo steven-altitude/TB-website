@@ -1,7 +1,7 @@
----
+﻿---
 title: "IMPORTANCIA DE LOS CABLES SUBMARINOS EN EL ECUADOR Y EL MUNDO"
 date: 2020-06-26
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "De conformidad a la definición dada por la Agencia de Regulación y Control de las Telecomunicaciones (ARCOTEL), el cable submarino es un cable de cobre o fibra óptica, instalado sobre el lecho mari..."
 tags:
   - publicaciones

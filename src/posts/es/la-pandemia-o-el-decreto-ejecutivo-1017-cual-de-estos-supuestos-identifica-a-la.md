@@ -1,7 +1,7 @@
----
+﻿---
 title: "La pandemia o el Decreto Ejecutivo 1017 ¿cuál de estos supuestos identifica a la fuerza mayor que actualmente pretende alegarse?"
 date: 2020-04-07
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Sin duda alguna, el COVID-19 ha cambiado las relaciones comerciales y económicas en el mundo entero. Es fácil avizorar una crisis generalizada que, para ser superada, deberá tener un desarrollo jur..."
 tags:
   - publicaciones

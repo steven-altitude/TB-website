@@ -1,7 +1,7 @@
----
+﻿---
 title: "Acerca del Proyecto de Ley de Extinción de Dominio"
 date: 2020-11-12
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Dentro de la Asamblea Nacional, en específico la Comisión de Participación Ciudadana, ha venido tramitando desde hace casi dos años el Proyecto de Ley de Recuperación de bienes de Origen Ilícito o ..."
 tags:
   - publicaciones

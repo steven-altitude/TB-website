@@ -23,7 +23,7 @@ collections:
     fields:
       - { label: "Título",          name: "title",     widget: "string" }
       - { label: "Fecha",           name: "date",      widget: "datetime", format: "YYYY-MM-DD", date_format: "DD/MM/YYYY", time_format: false }
-      - { label: "Autor/a",         name: "author",    widget: "string", default: "Tesserae Bureau" }
+      - { label: "Autor/a",         name: "author",    widget: "string", default: "Tesserae Buró de Abogados" }
       - { label: "Extracto",        name: "excerpt",   widget: "text",   required: false, hint: "Resumen corto (máx. 2 oraciones) para la vista previa del blog." }
       - { label: "Imagen destacada",name: "image",     widget: "image",  required: false }
       - { label: "Alt de la imagen",name: "image_alt", widget: "string", required: false }
@@ -41,7 +41,7 @@ collections:
     fields:
       - { label: "Title",           name: "title",     widget: "string" }
       - { label: "Date",            name: "date",      widget: "datetime", format: "YYYY-MM-DD", date_format: "MM/DD/YYYY", time_format: false }
-      - { label: "Author",          name: "author",    widget: "string", default: "Tesserae Bureau" }
+      - { label: "Author",          name: "author",    widget: "string", default: "Tesserae Buró de Abogados" }
       - { label: "Excerpt",         name: "excerpt",   widget: "text",   required: false, hint: "Short summary (max 2 sentences) for the blog preview." }
       - { label: "Featured Image",  name: "image",     widget: "image",  required: false }
       - { label: "Image Alt Text",  name: "image_alt", widget: "string", required: false }

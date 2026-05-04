@@ -1,7 +1,7 @@
----
+﻿---
 title: "Más precisiones sobre arbitraje en el nuevo Reglamento a la Ley de Arbitraje y Mediación de Ecuador"
 date: 2021-08-19
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Pese a que la Ley de Arbitraje y Mediación (LAM) es clara en sus disposiciones, las distintas interpretaciones en cuanto a su aplicación generaban inseguridad jurídica, más que nada cuando se trata..."
 tags:
   - publicaciones

@@ -1,7 +1,7 @@
----
+﻿---
 title: "Una mirada a los incumplimientos contractuales privados en tiempos de COVID-19"
 date: 2020-06-30
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "A causa de la emergencia sanitaria global, el mundo empresarial  y de relaciones privadas se ha visto frente a graves problemas generados por imprevistos que no fueron posibles de determinar, por e..."
 tags:
   - publicaciones

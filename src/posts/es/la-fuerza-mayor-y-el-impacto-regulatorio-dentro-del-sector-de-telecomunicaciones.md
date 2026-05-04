@@ -1,7 +1,7 @@
----
+﻿---
 title: "La fuerza mayor y el impacto regulatorio dentro del sector de telecomunicaciones"
 date: 2020-05-15
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Con fecha 22 de marzo de 2020, el MINTEL (Ministerio de Telecomunicaciones y de la Sociedad de la Información) emitió el Acuerdo Ministerial No. 009-2020. Instrumento que contiene una serie de medi..."
 tags:
   - publicaciones

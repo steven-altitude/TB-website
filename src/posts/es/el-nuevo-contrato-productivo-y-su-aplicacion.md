@@ -1,7 +1,7 @@
----
+﻿---
 title: "El nuevo contrato productivo y su aplicación"
 date: 2020-11-10
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Uno de los problemas más grandes de toda norma es su redacción e interpretación. El Código Civil dedica artículos enteros para fijar reglas que ayudan a solucionar diferentes problemas que, en la p..."
 tags:
   - publicaciones

@@ -1,7 +1,7 @@
----
+﻿---
 title: "Informativo Jurídico – Enero 2019"
 date: 2019-01-15
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "OBLIGATORIEDAD EN EL CUMPLIMIENTO DE LA RESOLUCIÓN No. SCVS-DSC-2018-0041 DE LA SUPERINTENDENCIA DE COMPAÑÍAS, VALORES Y SEGUROS En semanas anteriores, la Superintendencia de Compañías, Valores y S..."
 tags:
   - publicaciones

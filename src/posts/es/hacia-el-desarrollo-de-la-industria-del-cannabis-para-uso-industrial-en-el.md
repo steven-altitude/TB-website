@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hacia el desarrollo de la industria del Cannabis para uso industrial en el Ecuador"
 date: 2020-10-28
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El pasado 25 de septiembre, el Presidente Lenin Moreno, remitió a la Asamblea Nacional el veto total al Código Orgánico de Salud (COS), ya que, según él, contiene varios temas relacionados a la sal..."
 tags:
   - publicaciones

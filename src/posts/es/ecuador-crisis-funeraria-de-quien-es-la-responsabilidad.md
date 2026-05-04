@@ -1,7 +1,7 @@
----
+﻿---
 title: "ECUADOR: CRISIS FUNERARIA ¿de quién es la responsabilidad?"
 date: 2020-04-21
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "Llevamos ya más de un mes en Estado de Excepción debido a la crisis sanitaria que afronta el mundo entero con ocasión del Coronavirus Covid-19. Aunado a lo complejo de la situación, y en medio de t..."
 tags:
   - publicaciones

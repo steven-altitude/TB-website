@@ -1,7 +1,7 @@
----
+﻿---
 title: "Teletrabajo Emergente"
 date: 2020-03-18
-author: "Tesserae Bureau"
+author: "Tesserae Buró de Abogados"
 excerpt: "El 11 de marzo de 2020 el presidente Lenín Moreno declaró la emergencia sanitaria en el país y una de las disposiciones a adoptar para prevenir el contagio y la propagación del COVID -19 es la de r..."
 tags:
   - publicaciones
