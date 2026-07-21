@@ -5,7 +5,7 @@ date: 2026-07-21
 author: Bryan Escaleras Martínez, Asociado Senior
 image: /assets/img/blog/mokaza-construction-8981663_1920.png
 tags:
-  - "#contrataciónpública#ordendetrabajo#contratosestatales#Ecuador"
+  - Contratación Pública Orden de Trabajo Contratos Estatales
 ---
 Dentro de la contratación pública ecuatoriana existe una percepción ampliamente extendida donde las obligaciones económicas de las entidades públicas únicamente pueden nacer de un contrato válidamente suscrito conforme a las formalidades previstas en la ley. Sin embargo, la realidad administrativa demuestra que existen múltiples escenarios en los cuales la Administración Pública ordena, autoriza, dirige y recibe determinadas prestaciones sin que necesariamente exista un instrumento contractual formalizado. Esta situación ha generado un importante debate jurídico respecto de si el Estado puede beneficiarse de una prestación efectivamente ejecutada y, posteriormente, desconocer la obligación de pago bajo el argumento de la inexistencia de un contrato.
 
