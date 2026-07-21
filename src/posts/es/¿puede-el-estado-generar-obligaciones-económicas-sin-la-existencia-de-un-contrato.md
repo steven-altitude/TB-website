@@ -2,7 +2,7 @@
 title: ¿Puede el Estado generar obligaciones económicas sin la existencia de un
   contrato?
 date: 2026-07-21
-author: Tesserae Buró de Abogados
+author: Bryan Escaleras Martínez, Asociado Senior
 image: /assets/img/blog/mokaza-construction-8981663_1920.png
 tags:
   - "#contrataciónpública#ordendetrabajo#contratosestatales#Ecuador"
