@@ -3,7 +3,7 @@ title: 'Renegociación contractual y contract lifecycle: del cierre al conflicto
   ¿Cómo evitar el "contrato tóxico"?'
 date: 2026-08-03
 author: Paola Bermúdez Roldán, Socia
-image: /assets/img/blog/lifecycle.png
+image: /assets/img/blog/final.png
 tags:
   - Arbitraje
   - contrataciónpública
@@ -24,4 +24,4 @@ La pregunta no es si habrá imprevistos, siempre los habrá. La pregunta es si e
 
 *La información aquí publicada no supone ningún consejo o asesoría legal particular, siendo su función meramente informativa.*
 
-*TBA cuenta con un equipo especialista en estructuración legal de proyectos.*
+*TBA cuenta con un equipo especialista en estructuración legal de proyectos y en gestión de riesgos contractuales.*
