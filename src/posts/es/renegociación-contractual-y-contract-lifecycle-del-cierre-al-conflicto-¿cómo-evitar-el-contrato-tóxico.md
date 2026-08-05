@@ -3,7 +3,7 @@ title: 'Renegociación contractual y contract lifecycle: del cierre al conflicto
   ¿Cómo evitar el "contrato tóxico"?'
 date: 2026-08-03
 author: Paola Bermúdez Roldán, Socia
-image: /assets/img/blog/gemini_generated_image_n0izion0izion0iz.png
+image: /assets/img/blog/final.png
 tags:
   - Arbitraje
   - contrataciónpública
