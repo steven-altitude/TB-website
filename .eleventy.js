@@ -33,6 +33,14 @@ module.exports = function (eleventyConfig) {
       .sort((a, b) => b.date - a.date);
   });
 
+  // Team collections — sorted by `orden`, only active members
+  eleventyConfig.addCollection("asociados", (collectionApi) => {
+    return collectionApi
+      .getFilteredByGlob("src/team/asociados/*.md")
+      .filter((m) => m.data.activo !== false)
+      .sort((a, b) => (a.data.orden || 99) - (b.data.orden || 99));
+  });
+
   return {
     dir: {
       input:    "src",

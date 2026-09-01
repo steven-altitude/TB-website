@@ -47,3 +47,40 @@ collections:
       - { label: "Image Alt Text",  name: "image_alt", widget: "string", required: false }
       - { label: "Tags",            name: "tags",      widget: "list",   required: false }
       - { label: "Content",         name: "body",      widget: "markdown" }
+
+  # ── Equipo · Asociados y Paralegales ──────────────────────────────────────
+  - name: "asociados"
+    label: "Equipo · Asociados y Paralegales"
+    label_singular: "Miembro del equipo"
+    folder: "src/team/asociados"
+    create: true
+    slug: "{{slug}}"
+    identifier_field: "nombre"
+    summary: "{{nombre}} — {{rol_es}}"
+    sortable_fields: ['orden', 'nombre']
+    fields:
+      - { label: "Nombre completo",         name: "nombre",       widget: "string" }
+      - { label: "Foto",                    name: "foto",         widget: "image", media_folder: "/src/assets/img/team", public_folder: "/assets/img/team" }
+      - { label: "Email",                   name: "email",        widget: "string", required: false }
+      - { label: "LinkedIn (URL)",          name: "linkedin",     widget: "string", required: false }
+      - { label: "Orden",                   name: "orden",        widget: "number", value_type: "int", min: 1, hint: "Posición en la grilla (menor = primero)" }
+      - { label: "Activo (visible en la web)", name: "activo",    widget: "boolean", default: true }
+      - { label: "Rol (ES)",                name: "rol_es",       widget: "string", hint: "Ej: Asociado Senior · Litigios" }
+      - { label: "Rol (EN)",                name: "rol_en",       widget: "string" }
+      - { label: "Bio (ES)",                name: "bio_es",       widget: "text" }
+      - { label: "Bio (EN)",                name: "bio_en",       widget: "text" }
+      - { label: "Intereses (ES)",          name: "intereses_es", widget: "text", required: false, hint: "Solo para paralegales/asistentes legales" }
+      - { label: "Intereses (EN)",          name: "intereses_en", widget: "text", required: false }
+      - label: "Formación (ES)"
+        name: "formacion_es"
+        widget: "list"
+        field: { label: "Item", name: "item", widget: "string" }
+        hint: "Un item por línea educativa. Ej: Máster en... – Universidad..."
+      - label: "Formación (EN)"
+        name: "formacion_en"
+        widget: "list"
+        field: { label: "Item", name: "item", widget: "string" }
+      - { label: "Idiomas (ES)",            name: "idiomas_es",   widget: "string", hint: "Ej: Español · Inglés B2" }
+      - { label: "Idiomas (EN)",            name: "idiomas_en",   widget: "string" }
+      - { label: "CV en Español (PDF)",     name: "cv_es",        widget: "file", required: false, media_folder: "/src/assets/docs", public_folder: "/assets/docs" }
+      - { label: "CV en Inglés (PDF)",      name: "cv_en",        widget: "file", required: false, media_folder: "/src/assets/docs", public_folder: "/assets/docs" }

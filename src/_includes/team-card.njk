@@ -1,0 +1,34 @@
+{# Reusable team member card — expects: member, lang (es|en), delay #}
+{%- set rol = member.data['rol_' + lang] -%}
+{%- set bio = member.data['bio_' + lang] -%}
+{%- set intereses = member.data['intereses_' + lang] -%}
+{%- set formacion = member.data['formacion_' + lang] -%}
+{%- set idiomas = member.data['idiomas_' + lang] -%}
+{%- set cv = member.data['cv_' + lang] -%}
+{%- set L = {
+    es: { formacion: 'Formación', idiomas: 'Idiomas', intereses: 'Intereses', cv: 'Descargar CV', linkedin: 'LinkedIn' },
+    en: { formacion: 'Education', idiomas: 'Languages', intereses: 'Interests', cv: 'Download CV', linkedin: 'LinkedIn' }
+}[lang] -%}
+
+<div class="team-card" data-reveal{% if delay %} data-reveal-delay="{{ delay }}"{% endif %}>
+  <div class="team-card-photo"><img src="{{ member.data.foto }}" alt="{{ member.data.nombre }}" loading="lazy"></div>
+  <div class="team-card-body">
+    <h2 class="team-card-name">{{ member.data.nombre }}</h2>
+    <p class="team-card-role">{{ rol | safe }}</p>
+    <p class="team-card-bio">{{ bio | safe }}</p>
+    {% if intereses %}
+    <p class="team-card-bio" style="margin-top:0.8rem;"><strong style="color:var(--gold); font-size:0.6rem; letter-spacing:0.2em; text-transform:uppercase;">{{ L.intereses }}:</strong> {{ intereses | safe }}</p>
+    {% endif %}
+    {% if formacion %}
+    <p class="team-card-bio" style="margin-top:0.8rem;"><strong style="color:var(--gold); font-size:0.6rem; letter-spacing:0.2em; text-transform:uppercase;">{{ L.formacion }}:</strong><br>
+      {{ formacion | join('<br>') | safe }}
+    </p>
+    {% endif %}
+    {% if idiomas %}
+    <p class="team-card-bio" style="margin-top:0.5rem;"><strong style="color:var(--gold); font-size:0.6rem; letter-spacing:0.2em; text-transform:uppercase;">{{ L.idiomas }}:</strong> {{ idiomas }}</p>
+    {% endif %}
+    {% if member.data.email %}<a href="mailto:{{ member.data.email }}" class="team-card-email">{{ member.data.email }}</a>{% endif %}
+    {% if member.data.linkedin %}<a href="{{ member.data.linkedin }}" class="team-card-linkedin" target="_blank" rel="noopener">{{ L.linkedin }}</a>{% endif %}
+    {% if cv %}<a href="{{ cv }}" class="pillar-link" style="display:inline-block; margin-top:0.8rem; font-size:0.7rem;" target="_blank" rel="noopener">{{ L.cv }} &rarr;</a>{% endif %}
+  </div>
+</div>
