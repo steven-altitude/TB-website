@@ -84,3 +84,114 @@ collections:
       - { label: "Idiomas (EN)",            name: "idiomas_en",   widget: "string" }
       - { label: "CV en Español (PDF)",     name: "cv_es",        widget: "file", required: false, media_folder: "/src/assets/docs", public_folder: "/assets/docs" }
       - { label: "CV en Inglés (PDF)",      name: "cv_en",        widget: "file", required: false, media_folder: "/src/assets/docs", public_folder: "/assets/docs" }
+
+  # ── Equipo · Socias ────────────────────────────────────────────────────────
+  - name: "socias"
+    label: "Equipo · Socias"
+    label_singular: "Socia"
+    folder: "src/team/socias"
+    create: true
+    slug: "{{slug}}"
+    identifier_field: "nombre"
+    summary: "{{nombre}} — {{rol_es}}"
+    sortable_fields: ['orden', 'nombre']
+    fields:
+      - { label: "Nombre completo",         name: "nombre",       widget: "string" }
+      - { label: "Foto",                    name: "foto",         widget: "image", media_folder: "/src/assets/img/team", public_folder: "/assets/img/team" }
+      - { label: "Email",                   name: "email",        widget: "string", required: false }
+      - { label: "LinkedIn (URL)",          name: "linkedin",     widget: "string", required: false }
+      - { label: "Orden",                   name: "orden",        widget: "number", value_type: "int", min: 1 }
+      - { label: "Activo (visible en la web)", name: "activo",    widget: "boolean", default: true }
+      - { label: "Rol (ES)",                name: "rol_es",       widget: "string", default: "Socia" }
+      - { label: "Rol (EN)",                name: "rol_en",       widget: "string", default: "Partner" }
+      - { label: "Áreas de práctica (ES)",  name: "areas_es",     widget: "string", hint: "Separadas por · Ej: Infraestructura · Energético · Litigios" }
+      - { label: "Áreas de práctica (EN)",  name: "areas_en",     widget: "string" }
+      - { label: "Bio (ES)",                name: "bio_es",       widget: "text" }
+      - { label: "Bio (EN)",                name: "bio_en",       widget: "text" }
+      - label: "Formación (ES)"
+        name: "formacion_es"
+        widget: "list"
+        field: { label: "Item", name: "item", widget: "string" }
+      - label: "Formación (EN)"
+        name: "formacion_en"
+        widget: "list"
+        field: { label: "Item", name: "item", widget: "string" }
+      - { label: "Idiomas (ES)",            name: "idiomas_es",   widget: "string" }
+      - { label: "Idiomas (EN)",            name: "idiomas_en",   widget: "string" }
+      - { label: "CV en Español (PDF)",     name: "cv_es",        widget: "file", required: false, media_folder: "/src/assets/docs", public_folder: "/assets/docs" }
+      - { label: "CV en Inglés (PDF)",      name: "cv_en",        widget: "file", required: false, media_folder: "/src/assets/docs", public_folder: "/assets/docs" }
+
+  # ── Equipo · Asesores Extranjeros ─────────────────────────────────────────
+  - name: "asesores"
+    label: "Equipo · Asesores Extranjeros"
+    label_singular: "Asesor Extranjero"
+    folder: "src/team/asesores"
+    create: true
+    slug: "{{slug}}"
+    identifier_field: "nombre"
+    summary: "{{nombre}} — {{rol_es}}"
+    sortable_fields: ['orden', 'nombre']
+    fields:
+      - { label: "Nombre completo",         name: "nombre",       widget: "string" }
+      - { label: "Foto",                    name: "foto",         widget: "image", required: false, media_folder: "/src/assets/img/team", public_folder: "/assets/img/team", hint: "Opcional — si no hay foto, la tarjeta se ajusta automáticamente" }
+      - { label: "Email",                   name: "email",        widget: "string", required: false }
+      - { label: "LinkedIn (URL)",          name: "linkedin",     widget: "string", required: false }
+      - { label: "Orden",                   name: "orden",        widget: "number", value_type: "int", min: 1 }
+      - { label: "Activo (visible en la web)", name: "activo",    widget: "boolean", default: true }
+      - { label: "Rol (ES)",                name: "rol_es",       widget: "string", hint: "Ej: Asesor Extranjero · Energía · Derecho Minero" }
+      - { label: "Rol (EN)",                name: "rol_en",       widget: "string" }
+      - { label: "Bio principal (ES)",      name: "bio_es",       widget: "text" }
+      - { label: "Bio principal (EN)",      name: "bio_en",       widget: "text" }
+      - { label: "Bio párrafo 2 (ES)",      name: "bio_2_es",     widget: "text", required: false, hint: "Opcional — segundo párrafo de bio" }
+      - { label: "Bio párrafo 2 (EN)",      name: "bio_2_en",     widget: "text", required: false }
+      - label: "Formación (ES)"
+        name: "formacion_es"
+        widget: "list"
+        field: { label: "Item", name: "item", widget: "string" }
+      - label: "Formación (EN)"
+        name: "formacion_en"
+        widget: "list"
+        field: { label: "Item", name: "item", widget: "string" }
+      - { label: "Idiomas (ES)",            name: "idiomas_es",   widget: "string" }
+      - { label: "Idiomas (EN)",            name: "idiomas_en",   widget: "string" }
+      - { label: "CV en Español (PDF)",     name: "cv_es",        widget: "file", required: false, media_folder: "/src/assets/docs", public_folder: "/assets/docs" }
+      - { label: "CV en Inglés (PDF)",      name: "cv_en",        widget: "file", required: false, media_folder: "/src/assets/docs", public_folder: "/assets/docs" }
+
+  # ── Equipo · Departamento Financiero ──────────────────────────────────────
+  - name: "financiero"
+    label: "Equipo · Departamento Financiero"
+    label_singular: "Miembro del Depto. Financiero"
+    folder: "src/team/financiero"
+    create: true
+    slug: "{{slug}}"
+    identifier_field: "nombre"
+    summary: "{{nombre}} — {{rol_es}}"
+    sortable_fields: ['orden', 'nombre']
+    fields:
+      - { label: "Nombre completo",         name: "nombre",       widget: "string" }
+      - { label: "Foto",                    name: "foto",         widget: "image", required: false, media_folder: "/src/assets/img/team", public_folder: "/assets/img/team" }
+      - { label: "Email",                   name: "email",        widget: "string", required: false }
+      - { label: "Teléfono",                name: "telefono",     widget: "string", required: false, hint: "Ej: 593 96 256 1049" }
+      - { label: "LinkedIn (URL)",          name: "linkedin",     widget: "string", required: false }
+      - { label: "Orden",                   name: "orden",        widget: "number", value_type: "int", min: 1 }
+      - { label: "Activo (visible en la web)", name: "activo",    widget: "boolean", default: true }
+      - { label: "Rol (ES)",                name: "rol_es",       widget: "string", hint: "Ej: Jefe Financiero" }
+      - { label: "Rol (EN)",                name: "rol_en",       widget: "string" }
+      - { label: "Bio principal (ES)",      name: "bio_es",       widget: "text" }
+      - { label: "Bio principal (EN)",      name: "bio_en",       widget: "text" }
+      - { label: "Bio párrafo 2 (ES)",      name: "bio_2_es",     widget: "text", required: false }
+      - { label: "Bio párrafo 2 (EN)",      name: "bio_2_en",     widget: "text", required: false }
+      - { label: "Título del bloque (ES)",  name: "formacion_label_es", widget: "string", required: false, default: "Áreas de Especialización", hint: "Por defecto es 'Formación'. Para financiero usa 'Áreas de Especialización'" }
+      - { label: "Título del bloque (EN)",  name: "formacion_label_en", widget: "string", required: false, default: "Areas of Expertise" }
+      - label: "Áreas / Formación (ES)"
+        name: "formacion_es"
+        widget: "list"
+        field: { label: "Item", name: "item", widget: "string" }
+      - label: "Áreas / Formación (EN)"
+        name: "formacion_en"
+        widget: "list"
+        field: { label: "Item", name: "item", widget: "string" }
+      - { label: "Idiomas (ES)",            name: "idiomas_es",   widget: "string", required: false }
+      - { label: "Idiomas (EN)",            name: "idiomas_en",   widget: "string", required: false }
+      - { label: "CV en Español (PDF)",     name: "cv_es",        widget: "file", required: false, media_folder: "/src/assets/docs", public_folder: "/assets/docs" }
+      - { label: "CV en Inglés (PDF)",      name: "cv_en",        widget: "file", required: false, media_folder: "/src/assets/docs", public_folder: "/assets/docs" }

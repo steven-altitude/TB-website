@@ -1,4 +1,4 @@
-﻿---
+---
 layout: base.njk
 lang: es
 title: Asesores Extranjeros
@@ -17,24 +17,10 @@ permalink: /es/asesores-extranjeros/
   </p>
 
   <div class="team-grid-cards">
-
-    <div class="team-card" data-reveal>
-      <div class="team-card-body" style="padding-top:2rem;">
-        <h2 class="team-card-name">Milton Montoya Pardo</h2>
-        <p class="team-card-role">Asesor Extranjero &middot; Energía &middot; Derecho Minero</p>
-        <p class="team-card-bio">Doctor en Derecho con Máster en Derecho de la Energía. Ex Asesor Presidencial de la Agencia Nacional Minera de Colombia. Consultor del Instituto Federal Alemán de Geociencias y Recursos Naturales y de la Sociedad Alemana de Cooperación Internacional. Director de Investigaciones del Departamento de Derecho Minero-Energético de la Universidad Externado de Colombia. Of Counsel en Holland &amp; Knight Colombia.</p>
-        <p class="team-card-bio" style="margin-top:0.8rem;">Miembro del Consejo Académico de la Sección de Energía y Recursos Naturales de la IBA. Amplia experiencia en sectores energéticos colombiano y latinoamericano, asuntos regulatorios, ambientales y desarrollo de proyectos extractivos.</p>
-        <p class="team-card-bio" style="margin-top:0.8rem;"><strong style="color:var(--gold); font-size:0.6rem; letter-spacing:0.2em; text-transform:uppercase;">Formación:</strong><br>
-          Investigación Postdoctoral (Newton Fund-British Council Scholar) – University of Dundee<br>
-          Doctorado en Derecho – Universidad Complutense de Madrid<br>
-          Máster en Derecho de la Energía – Instituto Superior de la Energía / Fundación Repsol-YPF<br>
-          Diploma en Regulación Eléctrica y Gas; Abogado – Universidad Externado de Colombia
-        </p>
-        <p class="team-card-bio" style="margin-top:0.5rem;"><strong style="color:var(--gold); font-size:0.6rem; letter-spacing:0.2em; text-transform:uppercase;">Idiomas:</strong> Español · Inglés · Alemán</p>
-        <a href="mailto:info@tb-a.legal" class="team-card-email">info@tb-a.legal</a>
-      </div>
-    </div>
-
+    {% for member in collections.asesores %}
+      {% set delay = loop.index0 %}
+      {% include "team-card.njk" %}
+    {% endfor %}
   </div>
 
   <div style="margin-top:5rem; padding-top:4rem; border-top:1px solid rgba(44,43,40,0.1);">

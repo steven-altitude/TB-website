@@ -34,12 +34,16 @@ module.exports = function (eleventyConfig) {
   });
 
   // Team collections — sorted by `orden`, only active members
-  eleventyConfig.addCollection("asociados", (collectionApi) => {
-    return collectionApi
-      .getFilteredByGlob("src/team/asociados/*.md")
+  const teamCollection = (folder) => (collectionApi) =>
+    collectionApi
+      .getFilteredByGlob(`src/team/${folder}/*.md`)
       .filter((m) => m.data.activo !== false)
       .sort((a, b) => (a.data.orden || 99) - (b.data.orden || 99));
-  });
+
+  eleventyConfig.addCollection("asociados",  teamCollection("asociados"));
+  eleventyConfig.addCollection("socias",     teamCollection("socias"));
+  eleventyConfig.addCollection("asesores",   teamCollection("asesores"));
+  eleventyConfig.addCollection("financiero", teamCollection("financiero"));
 
   return {
     dir: {

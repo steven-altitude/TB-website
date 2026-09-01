@@ -1,31 +1,41 @@
 {# Reusable team member card — expects: member, lang (es|en), delay #}
 {%- set rol = member.data['rol_' + lang] -%}
+{%- set areas = member.data['areas_' + lang] -%}
 {%- set bio = member.data['bio_' + lang] -%}
+{%- set bio2 = member.data['bio_2_' + lang] -%}
 {%- set intereses = member.data['intereses_' + lang] -%}
 {%- set formacion = member.data['formacion_' + lang] -%}
+{%- set formacionLabel = member.data['formacion_label_' + lang] -%}
 {%- set idiomas = member.data['idiomas_' + lang] -%}
 {%- set cv = member.data['cv_' + lang] -%}
 {%- set L = {
-    es: { formacion: 'Formación', idiomas: 'Idiomas', intereses: 'Intereses', cv: 'Descargar CV', linkedin: 'LinkedIn' },
-    en: { formacion: 'Education', idiomas: 'Languages', intereses: 'Interests', cv: 'Download CV', linkedin: 'LinkedIn' }
+    es: { formacion: 'Formación', idiomas: 'Idiomas', intereses: 'Intereses', telefono: 'Teléfono', cv: 'Descargar CV', linkedin: 'LinkedIn' },
+    en: { formacion: 'Education', idiomas: 'Languages', intereses: 'Interests', telefono: 'Phone', cv: 'Download CV', linkedin: 'LinkedIn' }
 }[lang] -%}
 
 <div class="team-card" data-reveal{% if delay %} data-reveal-delay="{{ delay }}"{% endif %}>
+  {% if member.data.foto %}
   <div class="team-card-photo"><img src="{{ member.data.foto }}" alt="{{ member.data.nombre }}" loading="lazy"></div>
-  <div class="team-card-body">
+  {% endif %}
+  <div class="team-card-body"{% if not member.data.foto %} style="padding-top:2rem;"{% endif %}>
     <h2 class="team-card-name">{{ member.data.nombre }}</h2>
     <p class="team-card-role">{{ rol | safe }}</p>
+    {% if areas %}<p class="team-card-areas">{{ areas | safe }}</p>{% endif %}
     <p class="team-card-bio">{{ bio | safe }}</p>
+    {% if bio2 %}<p class="team-card-bio" style="margin-top:0.8rem;">{{ bio2 | safe }}</p>{% endif %}
     {% if intereses %}
     <p class="team-card-bio" style="margin-top:0.8rem;"><strong style="color:var(--gold); font-size:0.6rem; letter-spacing:0.2em; text-transform:uppercase;">{{ L.intereses }}:</strong> {{ intereses | safe }}</p>
     {% endif %}
     {% if formacion %}
-    <p class="team-card-bio" style="margin-top:0.8rem;"><strong style="color:var(--gold); font-size:0.6rem; letter-spacing:0.2em; text-transform:uppercase;">{{ L.formacion }}:</strong><br>
+    <p class="team-card-bio" style="margin-top:0.8rem;"><strong style="color:var(--gold); font-size:0.6rem; letter-spacing:0.2em; text-transform:uppercase;">{{ formacionLabel or L.formacion }}:</strong><br>
       {{ formacion | join('<br>') | safe }}
     </p>
     {% endif %}
     {% if idiomas %}
     <p class="team-card-bio" style="margin-top:0.5rem;"><strong style="color:var(--gold); font-size:0.6rem; letter-spacing:0.2em; text-transform:uppercase;">{{ L.idiomas }}:</strong> {{ idiomas }}</p>
+    {% endif %}
+    {% if member.data.telefono %}
+    <p class="team-card-bio" style="margin-top:0.5rem;"><strong style="color:var(--gold); font-size:0.6rem; letter-spacing:0.2em; text-transform:uppercase;">{{ L.telefono }}:</strong> {{ member.data.telefono }}</p>
     {% endif %}
     {% if member.data.email %}<a href="mailto:{{ member.data.email }}" class="team-card-email">{{ member.data.email }}</a>{% endif %}
     {% if member.data.linkedin %}<a href="{{ member.data.linkedin }}" class="team-card-linkedin" target="_blank" rel="noopener">{{ L.linkedin }}</a>{% endif %}
