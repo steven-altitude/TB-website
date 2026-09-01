@@ -11,5 +11,139 @@
 <body>
   <!-- Netlify CMS / Decap CMS -->
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+
+  <!-- Custom preview: foto grande y datos clave del miembro del equipo -->
+  <script>
+    (function () {
+      if (typeof CMS === 'undefined') return;
+
+      var h = CMS.h || (window.h);
+
+      function teamMemberPreview(props) {
+        var e = props.entry;
+        var d = e && e.get && e.get('data');
+        if (!d) return h('div', null, 'Sin datos');
+
+        var foto     = d.get('foto');
+        var nombre   = d.get('nombre')   || 'Sin nombre';
+        var rolEs    = d.get('rol_es')   || '';
+        var rolEn    = d.get('rol_en')   || '';
+        var email    = d.get('email')    || '';
+        var linkedin = d.get('linkedin') || '';
+        var telefono = d.get('telefono') || '';
+        var activo   = d.get('activo');
+        var orden    = d.get('orden');
+        var bioEs    = d.get('bio_es')   || '';
+
+        var wrap = {
+          style: {
+            fontFamily: '-apple-system, BlinkMacSystemFont, sans-serif',
+            padding: '2rem',
+            color: '#2C2B28',
+            maxWidth: '480px',
+            margin: '0 auto'
+          }
+        };
+
+        var fotoUrl = props.getAsset && foto ? props.getAsset(foto).toString() : foto;
+
+        var children = [];
+
+        if (foto) {
+          children.push(h('div', {
+            style: {
+              width: '100%',
+              aspectRatio: '1 / 1',
+              borderRadius: '4px',
+              overflow: 'hidden',
+              background: '#f5f2ec',
+              marginBottom: '1.5rem',
+              border: '1px solid #e5e0d5'
+            }
+          }, h('img', {
+            src: fotoUrl,
+            alt: nombre,
+            style: { width: '100%', height: '100%', objectFit: 'cover', display: 'block' }
+          })));
+        } else {
+          children.push(h('div', {
+            style: {
+              width: '100%', aspectRatio: '3 / 1', background: '#f5f2ec',
+              borderRadius: '4px', marginBottom: '1.5rem',
+              display: 'flex', alignItems: 'center', justifyContent: 'center',
+              color: '#86868b', fontSize: '0.75rem', letterSpacing: '0.15em',
+              textTransform: 'uppercase', border: '1px dashed #d5cfc0'
+            }
+          }, 'Sin foto'));
+        }
+
+        children.push(h('h2', {
+          style: {
+            fontFamily: 'Georgia, serif', fontWeight: 300, fontSize: '1.6rem',
+            margin: '0 0 0.4rem 0', color: '#2C2B28'
+          }
+        }, nombre));
+
+        if (rolEs) children.push(h('p', {
+          style: { margin: '0 0 0.2rem 0', fontSize: '0.85rem', color: '#B8925B' }
+        }, rolEs));
+        if (rolEn) children.push(h('p', {
+          style: { margin: '0 0 1rem 0', fontSize: '0.75rem', color: '#86868b', fontStyle: 'italic' }
+        }, rolEn));
+
+        var badges = [];
+        if (activo === false) {
+          badges.push(h('span', {
+            key: 'inactivo',
+            style: {
+              background: '#e5e0d5', color: '#86868b', padding: '0.25rem 0.6rem',
+              borderRadius: '2px', fontSize: '0.65rem', letterSpacing: '0.15em',
+              textTransform: 'uppercase', marginRight: '0.5rem'
+            }
+          }, 'Oculto en el sitio'));
+        } else {
+          badges.push(h('span', {
+            key: 'activo',
+            style: {
+              background: '#B8925B', color: '#fff', padding: '0.25rem 0.6rem',
+              borderRadius: '2px', fontSize: '0.65rem', letterSpacing: '0.15em',
+              textTransform: 'uppercase', marginRight: '0.5rem'
+            }
+          }, 'Visible'));
+        }
+        if (orden != null) {
+          badges.push(h('span', {
+            key: 'orden',
+            style: {
+              background: '#f5f2ec', color: '#2C2B28', padding: '0.25rem 0.6rem',
+              borderRadius: '2px', fontSize: '0.65rem', letterSpacing: '0.1em'
+            }
+          }, 'Orden #' + orden));
+        }
+        children.push(h('div', { style: { marginBottom: '1rem' } }, badges));
+
+        var contact = [];
+        if (email)    contact.push(h('div', { key: 'e', style: { fontSize: '0.75rem', color: '#2C2B28', marginBottom: '0.3rem' } }, '✉ ' + email));
+        if (telefono) contact.push(h('div', { key: 't', style: { fontSize: '0.75rem', color: '#2C2B28', marginBottom: '0.3rem' } }, '☎ ' + telefono));
+        if (linkedin) contact.push(h('div', { key: 'l', style: { fontSize: '0.75rem', color: '#0077b5', marginBottom: '0.3rem', wordBreak: 'break-all' } }, 'in: ' + linkedin));
+        if (contact.length) children.push(h('div', {
+          style: { padding: '0.8rem 0', borderTop: '1px solid #e5e0d5', borderBottom: '1px solid #e5e0d5', marginBottom: '1rem' }
+        }, contact));
+
+        if (bioEs) {
+          var preview = bioEs.length > 220 ? bioEs.substring(0, 220) + '…' : bioEs;
+          children.push(h('p', {
+            style: { fontSize: '0.8rem', lineHeight: 1.6, color: '#4a4944', margin: 0 }
+          }, preview));
+        }
+
+        return h('div', wrap, children);
+      }
+
+      ['asociados', 'socias', 'asesores', 'financiero'].forEach(function (col) {
+        CMS.registerPreviewTemplate(col, teamMemberPreview);
+      });
+    })();
+  </script>
 </body>
 </html>
