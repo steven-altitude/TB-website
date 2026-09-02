@@ -12,9 +12,9 @@ bio_en: "-"
 intereses_es: Litigación, derecho corporativo, APPs.
 intereses_en: Litigation, corporate law, PPP.
 formacion_es:
-  - Estudiante de Derecho (9no semestre) – Universidad de las Américas
+  - Estudiante de Derecho (7mo semestre) – Universidad Hemisferios
 formacion_en:
-  - Law Student (9th semester) – Universidad de las Américas
+  - Law Student (7th semester) – Universidad Hemisferios
 idiomas_es: Español · Inglés B2
 idiomas_en: Spanish · English B2
 cv_es: ""
