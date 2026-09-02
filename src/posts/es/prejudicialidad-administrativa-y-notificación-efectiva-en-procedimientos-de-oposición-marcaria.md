@@ -2,7 +2,7 @@
 title: Prejudicialidad administrativa y notificación efectiva en procedimientos
   de oposición marcaria
 date: 2026-09-02
-author: Tesserae Buró de Abogados
+author: Paola Bermúdez Roldán, Socia
 image: /assets/img/blog/communication-connection-message-networking.jpg
 tags:
   - prejudicialidadadministrativa
