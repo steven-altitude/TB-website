@@ -1,5 +1,5 @@
 ---
-nombre: "-"
+nombre: ----
 foto: /assets/img/team/logotb.fondoblanco.png
 email: info@tb-a.legal
 orden: 4
