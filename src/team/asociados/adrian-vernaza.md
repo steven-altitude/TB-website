@@ -1,6 +1,6 @@
 ---
 nombre: Cristina Proaño Novillo
-foto: /assets/img/team/logotb.fondoblanco.png
+foto: /assets/img/team/photo-2026-09-24-16-18-14.jpg
 email: cproano@tb-a.legal
 linkedin: https://www.linkedin.com/in/cristina-proa%C3%B1o-12897a381/
 orden: 6
