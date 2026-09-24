@@ -1,6 +1,6 @@
 ---
 nombre: Abigail Cárdenas Real
-foto: /assets/img/team/abigail-cardenas.webp
+foto: /assets/img/team/acr.jpg
 email: acardenas@tb-a.legal
 linkedin: https://www.linkedin.com/in/abigail-cardenas-real-3b62b1279/
 orden: 5
