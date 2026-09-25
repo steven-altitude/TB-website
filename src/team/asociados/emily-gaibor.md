@@ -1,7 +1,7 @@
 ---
 nombre: Pasante Legal
 foto: /assets/img/team/emily-gaibor.webp
-email: egaibor@tb-a.legal
+email: info@tb-a.legal
 orden: 4
 activo: true
 rol_es: Asistente Legal
