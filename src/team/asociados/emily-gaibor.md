@@ -1,5 +1,5 @@
 ---
-nombre: Pasante Legal
+nombre: "P-L-Pasante Legal "
 foto: /assets/img/team/emily-gaibor.webp
 email: info@tb-a.legal
 orden: 4
