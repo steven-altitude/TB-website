@@ -9,5 +9,8 @@
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",
     "@11ty/eleventy-plugin-rss": "^2.0.0"
+  },
+  "engines": {
+    "node": ">=24.22.1"
   }
 }
